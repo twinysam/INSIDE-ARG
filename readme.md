@@ -34,3 +34,19 @@ These is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
+The community has since been trying to get detailed pictures of each. These are pictures of most of those: https://imgur.com/a/YpqizlW
+
+This is what we know so far:
+
+- Each sticker has a unique number (supposedly that would be the copy number, from 1 to 1000)
+- Each sticker has one of three symbols: a dot, a [slash](https://i.imgur.com/v290XRN.jpg) or a dash.
+- Each sticker has one of nine different texture images. (We have identified them with letters, from A to I)
+
+The effort to track down as many different copies of the CE as possible, is being recorded in this document: https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit
+
+#### Three symbols
+
+It is believed that the symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) will reveal another message or code. However, we have yet to find several consecutively numbered stickers, since we think that might be the order needed to arrange them.
+
+#### The 9 texture images
+
