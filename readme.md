@@ -4,7 +4,7 @@ This repository is meant to keep a public record of most events and relevant dis
 
 ## About INSIDE & the ARG
 
-INSIDE is a [video game](https://playdead.com/games/inside) made by Playdead and first released in June 29, 2016.
+INSIDE is a [video game](https://playdead.com/games/inside) made by Playdead and first released in June 29, 2016. (Here is a [full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU))
 
 Early on, hidden things were discovered in the game. Some of these lead us to secret websites and other clues and puzzles started happening outside of the game.
 Playdead has been hinting at their upcoming game with it.
@@ -38,15 +38,36 @@ The community has since been trying to get detailed pictures of each. These are 
 
 This is what we know so far:
 
-- Each sticker has a unique number (supposedly that would be the copy number, from 1 to 1000)
-- Each sticker has one of three symbols: a dot, a [slash](https://i.imgur.com/v290XRN.jpg) or a dash.
+- Each sticker has a unique three digit number (supposedly that would be the copy number, from 001, or 000 to 999)
+- Each sticker has one of three symbols: a dot, a slash or a dash.
 - Each sticker has one of nine different texture images. (We have identified them with letters, from A to I)
 
 The effort to track down as many different copies of the CE as possible, is being recorded in this document: https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit
 
 #### Three symbols
 
-It is believed that the symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) will reveal another message or code. However, we have yet to find several consecutively numbered stickers, since we think that might be the order needed to arrange them.
+It is believed that the symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) will reveal another message or code. However, we have yet to find several consecutively numbered stickers, since that might be the order needed to arrange them. If this is the case, we are assuming that it won't be required to gather ALL the stickers (many of them have already been confirmed to have been lost or thrown away), but rather a much smaller number of them.
 
 #### The 9 texture images
 
+
+
+### The physical game's cover
+
+https://twitter.com/iam8bit/status/1203007268930764800
+
+WE NEED SCANS
+
+The clock is at 12:12.
+
+https://imgur.com/gallery/ipjWYEz ([source](https://discordapp.com/channels/460626942190813184/461275526716194818/655530752208797699))
+
+- [12/15/2019 - B.A.S.E realizes that one of the screens has the acorn](https://discordapp.com/channels/460626942190813184/461275526716194818/655831327865831468)
+- [closeup of acorn](https://discordapp.com/channels/460626942190813184/461275526716194818/655832962457403432)
+- [close up of planet](https://discordapp.com/channels/460626942190813184/461275526716194818/655835308520112169)
+- [other closeup](https://discordapp.com/channels/460626942190813184/461275526716194818/655835421384900631)
+- [closeup of graph](https://discordapp.com/channels/460626942190813184/461275526716194818/655835774595497984)
+- [nothings happens at 12:12PM or AM in that location of the game](https://discordapp.com/channels/460626942190813184/461275526716194818/655854897463558154)
+
+
+https://www.iam8bit.com/collections/playdead/products/inside-ps4-physical-game
