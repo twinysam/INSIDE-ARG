@@ -14,7 +14,7 @@ The ongoing effort to solve the puzzles and mysteries is happening at the unoffi
 ## Catching Up
 
 - [Imgur with early secrets and mysteries uncovered in the game](http://imgur.com/a/TnMsM)
-- [A good summary of most of the so far solved puzzles](https://wiki.gamedetectives.net/index.php?title=Inside_ARG)
+- [A good summary of most of the so far solved ARG puzzles](https://wiki.gamedetectives.net/index.php?title=Inside_ARG)
 
 ## Active Mysteries and Puzzles
 
@@ -46,13 +46,18 @@ The effort to track down as many different copies of the CE as possible, is bein
 
 #### Three symbols
 
-It is believed that the symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) will reveal another message or code. However, we have yet to find several consecutively numbered stickers, since that might be the order needed to arrange them. If this is the case, we are assuming that it won't be required to gather ALL the stickers (many of them have already been confirmed to have been lost or thrown away), but rather a much smaller number of them.
+The symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) might reveal another message or code. We have yet to find several consecutively numbered stickers, since that might be the order needed to arrange them. If this is the case, it is expected that it won't be required to gather ALL the stickers (many of them have already been confirmed to have been lost or thrown away), but rather a much smaller number of them (or so we hope!).
+
+For instance, if the string was of 10 characters long, it could have been repeated 100 times to give it a very good margin of error. However, so far the printer strings have been far longer than that (often 32 characters long, across many lines).
 
 #### The 9 texture images
 
+Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, an image is formed.
 
+- February 2, 2020 - [early attempt at putting it together](https://cdn.discordapp.com/attachments/461275582970462209/673008473277202451/Screen_Shot_2020-01-31_at_10.35.13_PM.png)
+- 
 
-### The physical game's cover
+### PS4 cover hidden mystery
 
 https://twitter.com/iam8bit/status/1203007268930764800
 
