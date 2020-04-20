@@ -61,7 +61,10 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 
 https://twitter.com/iam8bit/status/1203007268930764800
 
-WE NEED SCANS
+**SCANS**
+
+- [Internal cover](https://cdn.discordapp.com/attachments/461275582970462209/700782524535799848/INSIDE_A.JPG)
+- [External cover](https://cdn.discordapp.com/attachments/461275582970462209/700782556471230514/INSIDE_B.JPG)
 
 The clock is at 12:12.
 
