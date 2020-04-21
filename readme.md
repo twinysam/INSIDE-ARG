@@ -2,6 +2,8 @@
 
 This repository is meant to keep a public record of most events and relevant discoveries and progress in solving the mysteries of this [ARG](https://en.wikipedia.org/wiki/Alternate_reality_game). Thus making it easier to jump in on it while it's ongoing and contribute in helping solve it.
 
+April 20th note: This is all still very green and needs quite a bit of info for it to be actually useful.
+
 ## About INSIDE & the ARG
 
 INSIDE is a [video game](https://playdead.com/games/inside) made by Playdead and first released in June 29, 2016. (Here is a [full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU))
