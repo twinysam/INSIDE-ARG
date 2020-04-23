@@ -18,7 +18,13 @@ The ongoing effort to solve the puzzles and mysteries is happening at the unoffi
 
 ## Active Mysteries and Puzzles
 
-These are the things we are currently trying to figure out.
+These are the things we are currently trying to figure out:
+
+- [Collector's Edition Stickers](#collectors-edition-stickers)
+    - [Three Symbols](#three-symbols)
+    - [The 9 texture images](the-9-texture-images)
+- [Terminal 41 hidden JPG image (aka 534brn9653f9j8mmd puzzle)](#terminal-41-hidden-jpg-image-aka-534brn9653f9j8mmd-puzzle)
+- [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 
 ### Collector's Edition Stickers
 
@@ -57,9 +63,17 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - February 2, 2020 - [early attempt at putting it together](https://cdn.discordapp.com/attachments/461275582970462209/673008473277202451/Screen_Shot_2020-01-31_at_10.35.13_PM.png)
 - 
 
+**Puzzle SOLVED. Solution:** http://terminal41.link/dat/534brn9653f9j8mmd/
+
+### Terminal 41 hidden JPG image (aka 534brn9653f9j8mmd puzzle)
+
+In the URL: http://terminal41.link/dat/534brn9653f9j8mmd/ there was an HTML page with code for what seems to be a JPG image file.
+
 ### PS4 cover hidden mystery
 
-https://twitter.com/iam8bit/status/1203007268930764800
+On twitter, iam8bit (makers of the CE) [tweeted](https://twitter.com/iam8bit/status/1203007268930764800) explicitly stating that there is something hidden in the reversible cover of their PS4 edition of INSIDE.
+
+This may be the same for their [individual PS4 physical copy](https://www.iam8bit.com/products/inside-ps4-physical-game), for which they state there is *"perhaps, more than it seems"*.
 
 **SCANS**
 
@@ -76,6 +90,3 @@ https://imgur.com/gallery/ipjWYEz ([source](https://discordapp.com/channels/4606
 - [other closeup](https://discordapp.com/channels/460626942190813184/461275526716194818/655835421384900631)
 - [closeup of graph](https://discordapp.com/channels/460626942190813184/461275526716194818/655835774595497984)
 - [nothings happens at 12:12PM or AM in that location of the game](https://discordapp.com/channels/460626942190813184/461275526716194818/655854897463558154)
-
-
-https://www.iam8bit.com/collections/playdead/products/inside-ps4-physical-game
