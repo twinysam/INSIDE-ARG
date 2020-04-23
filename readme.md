@@ -24,7 +24,7 @@ These are the things we are currently trying to figure out:
 
 - [Collector's Edition Stickers](#collectors-edition-stickers)
     - [Three Symbols](#three-symbols)
-    - [The 9 texture images](the-9-texture-images)
+    - [The 9 texture images](#the-9-texture-images)
 - [Terminal 41 hidden JPG image (aka 534brn9653f9j8mmd puzzle)](#terminal-41-hidden-jpg-image-aka-534brn9653f9j8mmd-puzzle)
 - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 
