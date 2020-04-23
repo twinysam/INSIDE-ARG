@@ -6,7 +6,7 @@ This repository is meant to keep a public record of most events and relevant dis
 
 INSIDE is a [video game](https://playdead.com/games/inside) made by Playdead and first released in June 29, 2016. (Here is a [full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU))
 
-![inside](https://playdead.com/css/img/inside/gifs/gif7.gif)
+![inside](https://i.imgur.com/XVr2WfU.jpg)
 
 Early on, hidden things were discovered in the game. Some of these lead us to secret websites and other clues and puzzles started happening outside of the game.
 Playdead has been hinting at their upcoming game with it.
