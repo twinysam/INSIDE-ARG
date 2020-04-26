@@ -84,11 +84,11 @@ This may be the same for their [individual PS4 physical copy](https://www.iam8bi
 
 The clock is at 12:12.
 
-https://imgur.com/gallery/ipjWYEz ([source](https://discordapp.com/channels/460626942190813184/461275526716194818/655530752208797699))
+https://imgur.com/gallery/ipjWYEz ([Discord source](https://discordapp.com/channels/460626942190813184/461275526716194818/655530752208797699))
 
-- [12/15/2019 - B.A.S.E realizes that one of the screens has the acorn](https://discordapp.com/channels/460626942190813184/461275526716194818/655831327865831468)
-- [closeup of acorn](https://discordapp.com/channels/460626942190813184/461275526716194818/655832962457403432)
-- [close up of planet](https://discordapp.com/channels/460626942190813184/461275526716194818/655835308520112169)
-- [other closeup](https://discordapp.com/channels/460626942190813184/461275526716194818/655835421384900631)
-- [closeup of graph](https://discordapp.com/channels/460626942190813184/461275526716194818/655835774595497984)
-- [nothings happens at 12:12PM or AM in that location of the game](https://discordapp.com/channels/460626942190813184/461275526716194818/655854897463558154)
+- 12/15/2019 - B.A.S.E realizes that one of the screens has the acorn [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655831327865831468)
+- closeup of acorn [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655832962457403432)
+- close up of planet [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835308520112169)
+- other closeup [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835421384900631)
+- closeup of graph [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835774595497984)
+- nothings happens at 12:12PM or AM in that location of the game [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655854897463558154)
