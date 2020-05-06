@@ -27,7 +27,7 @@ These are the things we are currently trying to figure out:
 - [Collector's Edition Stickers](#collectors-edition-stickers)
     - [Three Symbols](#three-symbols)
     - [The 9 texture images](#the-9-texture-images)
-- [534brn9653f9j8mmd Puzzle)](#534brn9653f9j8mmd-puzzle)
+- [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 
 ### Collector's Edition Stickers
@@ -67,7 +67,11 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - February 2, 2020 - [early attempt at putting it together](https://cdn.discordapp.com/attachments/461275582970462209/673008473277202451/Screen_Shot_2020-01-31_at_10.35.13_PM.png)
 - 
 
-**Puzzle SOLVED. Solution:** http://terminal41.link/dat/534brn9653f9j8mmd/
+**Puzzle SOLVED. Solution:**
+	
+	dat/534brn9653f9j8mmd
+
+---
 
 ### 534brn9653f9j8mmd Puzzle
 
