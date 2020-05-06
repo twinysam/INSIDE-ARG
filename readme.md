@@ -15,6 +15,8 @@ The ongoing effort to solve the puzzles and mysteries is happening at the unoffi
 
 ## Catching Up
 
+This is required reading to understand what has happened so far, and the state of current puzzles.
+
 - [Imgur with early secrets and mysteries uncovered in the game](http://imgur.com/a/TnMsM)
 - [A good summary of most of the so far solved ARG puzzles](https://wiki.gamedetectives.net/index.php?title=Inside_ARG)
 
@@ -25,7 +27,7 @@ These are the things we are currently trying to figure out:
 - [Collector's Edition Stickers](#collectors-edition-stickers)
     - [Three Symbols](#three-symbols)
     - [The 9 texture images](#the-9-texture-images)
-- [Terminal 41 hidden JPG image (aka 534brn9653f9j8mmd puzzle)](#terminal-41-hidden-jpg-image-aka-534brn9653f9j8mmd-puzzle)
+- [534brn9653f9j8mmd Puzzle)](#534brn9653f9j8mmd-puzzle)
 - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 
 ### Collector's Edition Stickers
@@ -67,9 +69,27 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 
 **Puzzle SOLVED. Solution:** http://terminal41.link/dat/534brn9653f9j8mmd/
 
-### Terminal 41 hidden JPG image (aka 534brn9653f9j8mmd puzzle)
+### 534brn9653f9j8mmd Puzzle
 
 In the URL: http://terminal41.link/dat/534brn9653f9j8mmd/ there was an HTML page with code for what seems to be a JPG image file.
+
+The terminal41 site is since down (more on that later), but we are hosting a copy of that page here: http://534brn9653f9j8mmd.surge.sh/
+
+Besides the JPG file code, there are two other interesting things present in this section:
+
+	pe^!02un ........ .. . sys/ terminate terminal/ 41/ [conf.]
+
+The last part is a URL for the terminal41 page http://terminal41.link/sys/terminate_terminal/41/ which would have lead to this [archived page](https://web.archive.org/web/20200421064134/http://terminal41.link/sys/terminate_terminal/41/terminate.html)
+
+When replacing terminate.html in the URL with a "y" confirmation, we believe that's when the terminal site was effectively terminated, and thus why it can no longer be accessed.
+
+This still leaves us with:
+
+	pe^!02un ........ .. .
+
+Which we don't yet know where it fits or what it means.
+
+As for the JPG file, it can't be decoded as is. There are obfuscated characters which are in place of necessary bits of information.
 
 ### PS4 cover hidden mystery
 

@@ -1,0 +1,104 @@
+<html>
+<head>
+	<title>VoiceApp is phone calls for your web browser</title>
+	<style>
+		body {
+			color: white;
+			background-color: black;
+			font-family: monospace;
+			font-size: 2em;
+		}
+		#callings {
+    		width: 30%;
+    		height: 2.5em;
+    		border: none;
+			line-height: 0.7;
+			font-size: 1em;
+		}
+	</style>
+</head>
+
+<body>
+<script src="https://unpkg.com/peerjs@1.0.0/dist/peerjs.min.js"></script>
+</p>
+VoiceApp (note the caps) is the revolutionary way to call people without censorship or government interference. <br/>
+it is https I think, so only top tier agencies can listen to your calls<br/>
+or maybe even they can't u missed the seed round go buy TSLA<br/><br/>
+VoiceApp can be used by people in banana republics (definitely not USA) for planning revolution AI POWED STARTUP and not much blockchain anymore after i lost all my house in bitconnect<br/>
+<br/>
+donations: mail to Internal Revenue Service, PO Box 1303, Charlotte, NC 28201-1303
+</p>
+<input type="text" id="callings"></input>
+<input type="button" onclick="call()" value="call"></input>
+<input type="button" onclick="answerer()" value="answerer"></input>
+<audio controls></audio>
+<div id="peerid"></div>
+<script>
+
+//var getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+//console.log(getUserMedia);
+
+var getUserMedia = (function () {
+	if(navigator.getUserMedia) {
+			return navigator.getUserMedia.bind(navigator)
+	}
+	if(navigator.webkitGetUserMedia) {
+		return navigator.webkitGetUserMedia.bind(navigator)
+	}
+	if(navigator.mozGetUserMedia) {
+		return navigator.mozGetUserMedia.bind(navigator)
+	}
+})();
+
+function onReceiveStream(stream){
+	var audio = document.querySelector('audio');
+	console.log(audio);
+	audio.srcObject = stream;
+	audio.onloadedmetadata = function(e){
+		console.log('now playing the audio');
+		audio.play();
+	}
+}
+
+function call() {
+	var person_to_call = document.getElementById('callings').value;
+	console.log('WE IS CALLINNNN BRO '+person_to_call);
+
+	var peer = new Peer();
+	getUserMedia({video: false, audio: true}, function(stream) {
+		var call = peer.call(person_to_call, stream);
+		call.on('stream', function(remoteStream) {
+			console.log(remoteStream);
+			onReceiveStream(remoteStream);
+			// Show stream in some video/canvas element.
+		});
+	}, function(err) {
+		console.log('Failed to get local stream' ,err);
+	});
+
+}
+
+function answerer() {
+	var peer = new Peer();
+	peer.on('open', (id) => {
+		document.getElementById('peerid').innerHTML = id;
+	});
+	peer.on('call', function(call) {
+		getUserMedia({video: false, audio: true}, function(stream) {
+			console.log("WE IS GETTIN CALLEDDDD");
+			call.answer(stream); // Answer the call with an A/V stream.
+			call.on('stream', function(remoteStream) {
+				console.log(remoteStream);
+				onReceiveStream(remoteStream);
+				// Show stream in some video/canvas element.
+			});
+		}, function(err) {
+			console.log('Failed to get local stream' ,err);
+		});
+	});
+}
+
+</script>
+
+</body>
+</html>
