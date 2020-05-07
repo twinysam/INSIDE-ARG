@@ -75,6 +75,8 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 
 ### 534brn9653f9j8mmd Puzzle
 
+![Screenshot of terminal41.link/dat/534brn9653f9j8mmd/](https://cdn.discordapp.com/attachments/461275582970462209/702051255672897566/unknown.png)
+
 In the URL: http://terminal41.link/dat/534brn9653f9j8mmd/ there was an HTML page with code for what seems to be a JPG image file.
 
 The terminal41 site is since down (more on that later), but we are hosting a copy of that page here: http://534brn9653f9j8mmd.surge.sh/
