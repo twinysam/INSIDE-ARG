@@ -81,13 +81,13 @@ In the URL: http://terminal41.link/dat/534brn9653f9j8mmd/ there was an HTML page
 
 The terminal41 site is since down (more on that later), but we are hosting a copy of that page here: http://534brn9653f9j8mmd.surge.sh/
 
-Besides the JPG file code, there are two other interesting things present in this section:
+Besides the JPG file code, there are two other interesting things present at the very bottom:
 
 	pe^!02un ........ .. . sys/ terminate terminal/ 41/ [conf.]
 
-The last part is a URL for the terminal41 page http://terminal41.link/sys/terminate_terminal/41/ which would have lead to this [archived page](https://web.archive.org/web/20200421064134/http://terminal41.link/sys/terminate_terminal/41/terminate.html)
+The last part is a URL for the terminal41 page http://terminal41.link/sys/terminate_terminal/41/ which would have lead to this [archived page](https://web.archive.org/web/20200421064134/http://terminal41.link/sys/terminate_terminal/41/terminate.html).
 
-When replacing terminate.html in the URL with a "y" confirmation, we believe that's when the terminal site was effectively terminated, and thus why it can no longer be accessed.
+When replacing terminate.html in the URL with a "y" confirmation (`http://terminal41.link/sys/terminate_terminal/41/y/`), we believe that's when the terminal site was effectively terminated, and thus why it can no longer be accessed.
 
 This still leaves us with: `pe^!02un ........ .. .` Which we don't yet know where it fits or what it means.
 
