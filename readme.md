@@ -87,13 +87,11 @@ The last part is a URL for the terminal41 page http://terminal41.link/sys/termin
 
 When replacing terminate.html in the URL with a "y" confirmation, we believe that's when the terminal site was effectively terminated, and thus why it can no longer be accessed.
 
-This still leaves us with:
+This still leaves us with: `pe^!02un ........ .. .` Which we don't yet know where it fits or what it means.
 
-	pe^!02un ........ .. .
+As for the JPG file, it can't be converted as is. There are obfuscated characters which are in place of necessary bits of information.
 
-Which we don't yet know where it fits or what it means.
-
-As for the JPG file, it can't be decoded as is. There are obfuscated characters which are in place of necessary bits of information.
+---
 
 ### PS4 cover hidden mystery
 
