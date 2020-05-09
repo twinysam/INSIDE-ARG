@@ -4,7 +4,7 @@ This repository is meant to keep a public record of most events and relevant dis
 
 ## About INSIDE & the ARG
 
-INSIDE is a [video game](https://playdead.com/games/inside) made by Playdead and first released in June 29, 2016. (Here is a [full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU))
+[INSIDE](https://playdead.com/games/inside) is a video game made by Playdead and first released in June 29, 2016. (Here is a [full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU))
 
 ![inside](https://i.imgur.com/XVr2WfU.jpg)
 
@@ -15,7 +15,7 @@ The ongoing effort to solve the puzzles and mysteries is happening at the unoffi
 
 ## Catching Up
 
-This is required reading to understand what has happened so far, and the state of current puzzles.
+This is required reading to understand what has happened so far, and the state of some of the currently active puzzles.
 
 - [Imgur with early secrets and mysteries uncovered in the game](http://imgur.com/a/TnMsM)
 - [A good summary of most of the so far solved ARG puzzles](https://wiki.gamedetectives.net/index.php?title=Inside_ARG)
@@ -26,7 +26,7 @@ These are the things we are currently trying to figure out:
 
 - [Collector's Edition Stickers](#collectors-edition-stickers)
     - [Three Symbols](#three-symbols)
-    - [The 9 texture images](#the-9-texture-images)
+    - [The 9 texture images](#the-9-texture-images) :heavy_check_mark:
 - [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 
@@ -40,7 +40,7 @@ And this is the final result itself: https://www.youtube.com/watch?v=zhCdGdqCIRU
 
 The **stickers** that seal the wrapping contain a puzzle.
 
-These is what those stickers look like: 
+This is what those stickers look like: 
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
