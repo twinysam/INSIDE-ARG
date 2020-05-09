@@ -24,11 +24,16 @@ This is required reading to understand what has happened so far, and the state o
 
 These are the things we are currently trying to figure out:
 
-- [Collector's Edition Stickers](#collectors-edition-stickers)
-    - [Three Symbols](#three-symbols)
-    - [The 9 texture images](#the-9-texture-images) :heavy_check_mark:
-- [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
-- [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
+- [INSIDE ARG Documentation](#inside-arg-documentation)
+  - [About INSIDE & the ARG](#about-inside--the-arg)
+  - [Catching Up](#catching-up)
+  - [Active Mysteries and Puzzles](#active-mysteries-and-puzzles)
+    - [Collector's Edition Stickers](#collectors-edition-stickers)
+      - [Three symbols](#three-symbols)
+      - [The 9 texture images](#the-9-texture-images)
+    - [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
+    - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
+  - [Contributing](#contributing)
 
 ### Collector's Edition Stickers
 
@@ -116,3 +121,7 @@ https://imgur.com/gallery/ipjWYEz ([Discord source](https://discordapp.com/chann
 - other closeup [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835421384900631)
 - closeup of graph [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835774595497984)
 - nothings happens at 12:12PM or AM in that location of the game [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655854897463558154)
+
+## Contributing
+
+If you'd like to help out with this project, [read this.](contributing.md)
