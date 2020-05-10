@@ -49,7 +49,7 @@ This is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
-The community has since been trying to get detailed pictures of each. These are pictures of most of those: https://imgur.com/a/YpqizlW
+The community has since been trying to get detailed pictures of each. We are gathering everyone we've found here: https://github.com/twinysam/INSIDE-ARG/tree/master/images/stickers
 
 This is what we know so far:
 
