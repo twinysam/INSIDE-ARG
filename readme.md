@@ -24,16 +24,12 @@ This is required reading to understand what has happened so far, and the state o
 
 These are the things we are currently trying to figure out:
 
-- [INSIDE ARG Documentation](#inside-arg-documentation)
-  - [About INSIDE & the ARG](#about-inside--the-arg)
-  - [Catching Up](#catching-up)
-  - [Active Mysteries and Puzzles](#active-mysteries-and-puzzles)
-    - [Collector's Edition Stickers](#collectors-edition-stickers)
-      - [Three symbols](#three-symbols)
-      - [The 9 texture images](#the-9-texture-images)
-    - [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
-    - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
-  - [Contributing](#contributing)
+- [Collector's Edition Stickers](#collectors-edition-stickers)
+  - [Three symbols](#three-symbols)
+  - [The 9 texture images](#the-9-texture-images) :heavy_check_mark: 
+- [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
+- [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
+- [Contributing](#contributing)
 
 ### Collector's Edition Stickers
 
