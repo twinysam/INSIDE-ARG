@@ -65,8 +65,12 @@ For instance, if the string was of 10 characters long, it could have been repeat
 
 Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, an image is formed.
 
-- February 2, 2020 - [early attempt at putting it together](https://cdn.discordapp.com/attachments/461275582970462209/673008473277202451/Screen_Shot_2020-01-31_at_10.35.13_PM.png)
-- 
+- February 1, 2020 - [Early attempt at putting it together.](https://cdn.discordapp.com/attachments/461275582970462209/673008473277202451/Screen_Shot_2020-01-31_at_10.35.13_PM.png) ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/673008473633456211))
+- Letters A to I are used to identify each of the images. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/673020230200721428))
+- February 21 - [Early attempt at figuring out what the image was.](https://cdn.discordapp.com/attachments/461275582970462209/680300852967505972/unknown.png) ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/680300681864937476))
+- It is observed that [the background image is the in-game printer](https://cdn.discordapp.com/attachments/461275582970462209/680448490522017847/unknown.png). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/680421208860524590))
+- March 19 - [The first "C" is found](https://cdn.discordapp.com/attachments/461275582970462209/690392080853237760/IMG_20200319_224300.jpg) thus getting all the pieces of the puzzle. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690392081583177739))
+- [All 9 pieces together for the first time](https://cdn.discordapp.com/attachments/461275582970462209/690395145094299678/unknown.png). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690395145245425724))
 
 **Puzzle SOLVED. Solution:**
 	
