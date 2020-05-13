@@ -82,8 +82,11 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 
 `` 
 http://terminal41.link/sys/terminate_terminal/41/terminate.html
+
 http://terminal41.link/dat/534brn9653f9j8mmd/
+
 http://terminal41.link/sys/terminate_terminal/41/y/
+
 http://terminal41.link/sys/terminateall.html
 ``
 
