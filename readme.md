@@ -82,9 +82,7 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 http://terminal41.link/dat/534brn9653f9j8mmd/ - 
 http://terminal41.link/sys/terminate_terminal/41/y/ - 
 http://terminal41.link/sys/terminateall.html
-``
-
-([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/702030280751317072))
+`` ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/702030280751317072))
 
 **Explanation of what happened during the night of April 21st**
 
