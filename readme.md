@@ -63,7 +63,9 @@ For instance, if the string was of 10 characters long, it could have been repeat
 
 #### The 9 texture images
 
-Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, an image is formed.
+Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, [an image is formed](https://i.imgur.com/846shEE.jpg) (the letters A to I were added to identify each of the pieces). We had eventually contemplated that the solution was: `dat/534brn9653f9i8rnd` or `dat/534brn9653f9i8nmd`.
+
+**Chronology of events:**
 
 - February 1, 2020 - [Early attempt at putting it together.](https://cdn.discordapp.com/attachments/461275582970462209/673008473277202451/Screen_Shot_2020-01-31_at_10.35.13_PM.png) ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/673008473633456211))
 - Letters A to I are used to identify each of the images. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/673020230200721428))
@@ -71,10 +73,32 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - It is observed that [the background image is the in-game printer](https://cdn.discordapp.com/attachments/461275582970462209/680448490522017847/unknown.png). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/680421208860524590))
 - March 19 - [The first "C" is found](https://cdn.discordapp.com/attachments/461275582970462209/690392080853237760/IMG_20200319_224300.jpg) thus getting all the pieces of the puzzle. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690392081583177739))
 - [All 9 pieces together for the first time](https://cdn.discordapp.com/attachments/461275582970462209/690395145094299678/unknown.png). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690395145245425724))
+- March 20 - It is first considered that the code contained in the puzzle, could be a URL: `uat/5345rn9653f9i8nmd` ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690408214470328390))
+- March 21 - The `terminal41.link/dat/` directory is discovered and soon after associated with the puzzle. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/691115918776074242))
+- April 6 - A "C" image featuring a dash is found, thus enabling a clearer read on some of the characters which were partly concealed underneath a slash in all the previously found "C" images.  ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696749987991650315))
+- Based on that sticker, there was now more evidence to believe there was a number 6 in the code. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696860529813094420))
+- April 20 - Youtubber oddheader [covers still unsolved easter eggs](https://youtu.be/ec_8HLCboDI) and mysteries in video games, INSIDE among them. Which attracts new people to the ARG and the Discord (https://discordapp.com/channels/460626942190813184/461275582970462209/701922554591314070)
+- April 21 - A new discord member (attracted by said youtube video) looks into the Terminal41 website index and uncovers a few previously unknown URLs: 
+`` 
+http://terminal41.link/sys/terminate_terminal/41/terminate.html
+http://terminal41.link/dat/534brn9653f9j8mmd/
+http://terminal41.link/sys/terminate_terminal/41/y/
+http://terminal41.link/sys/terminateall.html
+``
+
+([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/702030280751317072))
+
+**Explanation of what happened during the night of April 21st**
+
+Someone looking into the index of http://terminal41.link/ found the above mentioned URLs. That's when this one: `http://terminal41.link/dat/534brn9653f9j8mmd/` was immediately recognized to be the solution to the 9 piece puzzle.
+
+When going to `http://terminal41.link/sys/terminate_terminal/41/terminate.html` ([archived here](https://web.archive.org/web/20200421064134/http://terminal41.link/sys/terminate_terminal/41/terminate.html)) a prompt to terminate the terminal was proposed. Inputing "y" in the form of accessing `http://terminal41.link/sys/terminate_terminal/41/y/` is believed to have effectively terminated access to the entire Terminal 41 website.
 
 **Puzzle SOLVED. Solution:**
 	
 	dat/534brn9653f9j8mmd
+
+Leading to: `http://terminal41.link/dat/534brn9653f9j8mmd/` and the "534brn9653f9j8mmd Puzzle".
 
 ---
 
@@ -82,15 +106,15 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 
 ![Screenshot of terminal41.link/dat/534brn9653f9j8mmd/](https://cdn.discordapp.com/attachments/461275582970462209/702051255672897566/unknown.png)
 
-In the URL: http://terminal41.link/dat/534brn9653f9j8mmd/ there was an HTML page with code for what seems to be a JPG image file.
+In the URL: `http://terminal41.link/dat/534brn9653f9j8mmd/` there was an HTML page with code for what seems to be a JPG image file.
 
-The terminal41 site is since down (more on that later), but we are hosting a copy of that page here: http://534brn9653f9j8mmd.surge.sh/
+The terminal41 site is since down, but we are hosting a copy of that page here: http://534brn9653f9j8mmd.surge.sh/
 
 Besides the JPG file code, there are two other interesting things present at the very bottom:
 
 	pe^!02un ........ .. . sys/ terminate terminal/ 41/ [conf.]
 
-The last part is a URL for the terminal41 page http://terminal41.link/sys/terminate_terminal/41/ which would have lead to this [archived page](https://web.archive.org/web/20200421064134/http://terminal41.link/sys/terminate_terminal/41/terminate.html).
+The last part is a URL for the terminal41 page `http://terminal41.link/sys/terminate_terminal/41/` which would have lead to this [archived page](https://web.archive.org/web/20200421064134/http://terminal41.link/sys/terminate_terminal/41/terminate.html).
 
 When replacing terminate.html in the URL with a "y" confirmation (`http://terminal41.link/sys/terminate_terminal/41/y/`), we believe that's when the terminal site was effectively terminated, and thus why it can no longer be accessed.
 
