@@ -77,7 +77,7 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - March 21 - The `terminal41.link/dat/` directory is discovered and soon after associated with the puzzle. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/691115918776074242))
 - April 6 - A "C" image featuring a dash is found, thus enabling a clearer read on some of the characters which were partly concealed underneath a slash in all the previously found "C" images.  ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696749987991650315))
 - Based on that sticker, there was now more evidence to believe there was a number 6 in the code. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696860529813094420))
-- April 20 - Youtubber oddheader [covers still unsolved easter eggs](https://youtu.be/ec_8HLCboDI) and mysteries in video games, INSIDE among them. Which attracts new people to the ARG and the Discord (https://discordapp.com/channels/460626942190813184/461275582970462209/701922554591314070)
+- April 20 - Youtubber oddheader [covers still unsolved easter eggs](https://youtu.be/ec_8HLCboDI) and mysteries in video games, INSIDE among them. Which attracts new people to the ARG and the Discord. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/701922554591314070))
 - April 21 - A new discord member (attracted by said youtube video) looks into the Terminal41 website index and uncovers a few previously unknown URLs: `` http://terminal41.link/sys/terminate_terminal/41/terminate.html - 
 http://terminal41.link/dat/534brn9653f9j8mmd/ - 
 http://terminal41.link/sys/terminate_terminal/41/y/ - 
