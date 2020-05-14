@@ -13,6 +13,8 @@ Playdead has been hinting at their [upcoming game](https://www.instagram.com/p/B
 
 The ongoing effort to solve the puzzles and mysteries is happening at the unofficial Playdead Discord server: https://discord.gg/gQ74gaa
 
+Would like to help out with the documentation? [check this section](#contributing).
+
 ## Catching Up
 
 This is required reading to understand what has happened so far, and the state of some of the currently active puzzles.
@@ -29,7 +31,6 @@ These are the things we are currently trying to figure out:
   - [X] [9 piece puzzle](#9-piece-puzzle) 
 - [ ] [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [ ] [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
-- [ ] [Contributing](#contributing)
 
 ### Collector's Edition Stickers
 
@@ -55,11 +56,15 @@ This is what we know so far:
 
 The effort to track down as many different copies of the CE as possible, is being recorded in this document: https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit
 
+---
+
 #### Three symbols
 
 The symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) might reveal another message or code. We have yet to find several consecutively numbered stickers, since that might be the order needed to arrange them. If this is the case, it is expected that it won't be required to gather ALL the stickers (many of them have already been confirmed to have been lost or thrown away), but rather a much smaller number of them (or so we hope!).
 
 For instance, if the string was of 10 characters long, it could have been repeated 100 times to give it a very good margin of error. However, so far the printer strings have been far longer than that (often 32 characters long, across many lines).
+
+---
 
 #### 9 piece puzzle
 
@@ -146,4 +151,6 @@ https://imgur.com/gallery/ipjWYEz ([Discord source](https://discordapp.com/chann
 
 ## Contributing
 
-If you'd like to help out with this project, [read this.](contributing.md)
+This is the kind of project that greatly benefits from having people involved, double-checking each other, making sure we have clear and comprehensive information. Help and contributions are greatly welcomed.
+
+If you'd like to help out with this project, [please check this page.](contributing.md)
