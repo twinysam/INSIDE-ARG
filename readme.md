@@ -8,8 +8,8 @@ This repository is meant to keep a public record of most events and relevant dis
 
 ![inside](https://i.imgur.com/XVr2WfU.jpg)
 
-Early on, hidden things were discovered in the game. Some of these lead us to secret websites and other clues and puzzles started happening outside of the game.
-Playdead has been hinting at their upcoming game with it.
+Early on, hidden things were discovered in the game. Some of those lead us to secret websites and other clues, and puzzles started happening outside of the game.
+Playdead has been hinting at their [upcoming game](https://www.instagram.com/p/BPfgOnfBrKu/) with it.
 
 The ongoing effort to solve the puzzles and mysteries is happening at the unofficial Playdead Discord server: https://discord.gg/gQ74gaa
 
@@ -24,12 +24,12 @@ This is required reading to understand what has happened so far, and the state o
 
 These are the things we are currently trying to figure out:
 
-- [Collector's Edition Stickers](#collectors-edition-stickers)
-  - [Three symbols](#three-symbols)
-  - [9 piece puzzle](#9-piece-puzzle) :heavy_check_mark: 
-- [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
-- [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
-- [Contributing](#contributing)
+- [ ] [Collector's Edition Stickers](#collectors-edition-stickers)
+  - [ ] [Three symbols](#three-symbols)
+  - [X] [9 piece puzzle](#9-piece-puzzle) 
+- [ ] [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
+- [ ] [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
+- [ ] [Contributing](#contributing)
 
 ### Collector's Edition Stickers
 
@@ -74,7 +74,7 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - March 19 - [The first "C" is found](https://cdn.discordapp.com/attachments/461275582970462209/690392080853237760/IMG_20200319_224300.jpg) thus getting all the pieces of the puzzle. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690392081583177739))
 - [All 9 pieces together for the first time](https://cdn.discordapp.com/attachments/461275582970462209/690395145094299678/unknown.png). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690395145245425724))
 - March 20 - It is first considered that the code contained in the puzzle, could be a URL: `uat/5345rn9653f9i8nmd` ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/690408214470328390))
-- March 21 - The `terminal41.link/dat/` directory is discovered and soon after associated with the puzzle. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/691115918776074242))
+- March 21 - The `terminal41.link/dat/` directory is "discovered" and soon after associated with the puzzle (even though the URL `http://terminal41.link/dat/breach_contribution_reg.html` had already been known for several months). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/691115918776074242))
 - April 6 - A "C" image featuring a dash is found, thus enabling a clearer read on some of the characters which were partly concealed underneath a slash in all the previously found "C" images.  ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696749987991650315))
 - Based on that sticker, there was now more evidence to believe there was a number 6 in the code. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696860529813094420))
 - April 20 - Youtubber oddheader [covers still unsolved easter eggs](https://youtu.be/ec_8HLCboDI) and mysteries in video games, INSIDE among them. Which attracts new people to the ARG and the Discord. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/701922554591314070))
@@ -121,6 +121,8 @@ As for the JPG file, it can't be converted as is. There are obfuscated character
 ---
 
 ### PS4 cover hidden mystery
+
+*Disclaimer: This section is still in its early stages and not fully documented.*
 
 On twitter, iam8bit (makers of the CE) [tweeted](https://twitter.com/iam8bit/status/1203007268930764800) explicitly stating that there is something hidden in the reversible cover of their PS4 edition of INSIDE.
 
