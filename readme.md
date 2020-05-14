@@ -26,7 +26,7 @@ These are the things we are currently trying to figure out:
 
 - [Collector's Edition Stickers](#collectors-edition-stickers)
   - [Three symbols](#three-symbols)
-  - [The 9 texture images](#the-9-texture-images) :heavy_check_mark: 
+  - [9 piece puzzle](#9-piece-puzzle) :heavy_check_mark: 
 - [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 - [Contributing](#contributing)
@@ -45,7 +45,7 @@ This is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
-The community has since been trying to get detailed pictures of each. We are gathering everyone we've found here: https://github.com/twinysam/INSIDE-ARG/tree/master/images/stickers
+The community has since been trying to get detailed pictures of each. We are gathering every sticker we've found here: https://github.com/twinysam/INSIDE-ARG/tree/master/images/stickers
 
 This is what we know so far:
 
@@ -61,7 +61,7 @@ The symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.
 
 For instance, if the string was of 10 characters long, it could have been repeated 100 times to give it a very good margin of error. However, so far the printer strings have been far longer than that (often 32 characters long, across many lines).
 
-#### The 9 texture images
+#### 9 piece puzzle
 
 Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, [an image is formed](https://i.imgur.com/846shEE.jpg) (the letters A to I were added to identify each of the pieces). We had eventually contemplated that the solution was: `dat/534brn9653f9i8rnd` or `dat/534brn9653f9i8nmd`.
 
