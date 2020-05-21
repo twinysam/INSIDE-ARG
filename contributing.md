@@ -12,7 +12,7 @@ If you intend to contribute something significant (anything that would represent
 
 ## Contact me
 
-You can reach me out under by same handle (twinysam) over at the Playdead Unofficial Discord: https://discord.gg/gQ74gaa
+You can reach me out under my same handle (twinysam) over at the Playdead Unofficial Discord: https://discord.gg/gQ74gaa
 
 I'm open to any suggestions and ideas.
 
