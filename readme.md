@@ -28,7 +28,7 @@ These are the things we are currently trying to figure out:
 
 - [ ] [Collector's Edition Stickers](#collectors-edition-stickers)
   - [ ] [Three symbols](#three-symbols)
-  - [X] [9 piece puzzle](#9-piece-puzzle) 
+  - [x] [9 piece puzzle](#9-piece-puzzle) 
 - [ ] [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [ ] [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
 
