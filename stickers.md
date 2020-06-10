@@ -1,0 +1,62 @@
+# Stickers
+
+Intro to the stickers, blah blah.
+
+## The list
+
+symb: stands for "symbol", one of three symbols, a dash, a slash and a dot.
+img: stands for "image", one of the 9 piece puzzle images.
+
+- 003 (symb: - img: C) - [@GameTradeGregg](https://twitter.com/GameTradeGregg) (DropRateGregg#1591 on DC) via Raezores
+- 020 (symb: / img: B)
+- 021 (symb: - img: C)
+- 032 (symb: / img: E)
+- 037 (symb: - img: A)
+- 038 (symb: / img:  )
+- 039 (symb: / img: C)
+- 047 (symb: / img: B)
+- 053 (symb: - img: H)
+- 059 (symb: / img: E)
+- 065 (symb: / img: B)
+- 066 (symb: / img: C)
+- 092 (symb: • img: B)
+- 095 (symb: • img: E)
+- 097 (symb: • img: G)
+- 123 (symb: / img: F)
+- 125 (symb: / img: H)
+- 126 (symb: - img: I)
+- 132 (symb: - img: F)
+- 154 (symb: / img: A)
+- 156 (symb: / img: C)
+- 171 (symb: / img: I)
+- 182 (symb: - img: B)
+- 184 (symb: / img: D)
+- 187 (symb: / img: G)
+- 193 (symb: • img:  )
+- 194 (symb: / img:  )
+- 206 (symb: • img: H)
+- 221 (symb: / img:  )
+- 231 (symb: / img: F)
+- 242 (symb: - img: H)
+- 245 (symb: / img: B)
+- 247 (symb: - img: D)
+- 248 (symb: / img: E)
+- 252 (symb: / img:  )
+- 258 (symb: / img: F)
+- 263 (symb: / img: B)
+- 267 (symb: - img: F)
+- 306 (symb: - img: I)
+- 312 (symb: / img:  )
+- 324 (symb: / img: I)
+- 328 (symb: - img: D)
+- 334 (symb: - img: a)
+- 336 (symb: - img: C)
+- 338 (symb: - img: E)
+- 343 (symb: - img: A)
+- 347 (symb: - img: E)
+- 354 (symb: / img: C)
+- 364 (symb: / img: D)
+- 384 (symb: / img: F)
+- 405 (symb: / img: I)
+- 597 (symb: / img:  )
+
