@@ -56,7 +56,7 @@ img: stands for "image", one of the 9 piece puzzle images.
 - 347 (symb: - img: E) - Darthwahl#4236 https://www.reddit.com/user/Darth_Wahl/ 
 - 354 (symb: / img: C) - sonicstud#5692 + [u/sonicstud](https://www.reddit.com/user/sonicstud/) via iam8bit waitlist & INSIDE subreddit
 - 364 (symb: / img: D) - [/u/The-Demon-Crab](https://www.reddit.com/r/PlaydeadsInside/comments/gxx2zo/the_sticker_from_the_collectors_edition_of_inside/)
-- 366 (symb: / img: F) - [@_anthonynash](https://twitter.com/_anthonynash) via Raoezores 
+- 366 (symb: / img: F) - [@_anthonynash](https://twitter.com/_anthonynash/status/1208975146557591553) via Raezores ("He ended up not getting it, but after a good amount of time updated me on that he got it after all")
 - 384 (symb: / img: F) - [@thecole777](https://www.instagram.com/p/B_-c0SXprLV/) via Raezores - was found via Instagram hashtag "iam8bit", "inside", "insidegame", "playdead"
 - 405 (symb: / img: I) - nailhead79#7474 via iam8bit waitlist
 - 597 (symb: / img:  ) - [Youtube-iam8bit](https://www.youtube.com/watch?v=zhCdGdqCIRU) PH&EM via PitchBright
