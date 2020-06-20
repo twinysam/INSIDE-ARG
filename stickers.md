@@ -24,7 +24,7 @@ img: stands for "image", one of the 9 piece puzzle images. Date will display at 
 - 097 (symb: • img: G) - HTML_Earth#1604. 06.01.2020
 - 123 (symb: / img: F) - [@tatianasaggio](https://twitter.com/Surginis/status/1205049792268787712) via Raezores - was found via an retweeted Twitter post from iam8bit about the Collector's Edition. 04.06.2020
 - 125 (symb: / img: H) - @mattpopcollector182 on Instagram & [CrossingSouls18 on Twitter](https://twitter.com/CrossingSouls18/status/971872926537412608) (MattTøp94#2518 on Discord) via Raezores - was found via Twitter search "iam8bit playdead realdoll", got reply on Instagram. 14.04.2020
-- 126 (symb: - img: I) - General Pfyffer#2429 [(/u/enioli98 on Reddit)](https://www.reddit.com/user/enioli98/).
+- 126 (symb: - img: I) - General Pfyffer#2429 [(/u/enioli98 on Reddit)](https://www.reddit.com/user/enioli98/). 14.02.2020
 - 132 (symb: - img: F) - PitchBright#0297. 02.01.2020
 - 154 (symb: / img: A) - Raezores#8095 via Morfid_plays#8652 via Matt Rockets. 26.01.2020
 - 156 (symb: / img: C) - [@X__Asylum](https://twitter.com/x__Asylum/status/1205532662129188864) (CollectingAsylum#8440 on Discord) via Raezores - was found via Twitter search "375 iam8bit realdoll collector's edition inside". 22.03.2020
@@ -35,10 +35,10 @@ img: stands for "image", one of the 9 piece puzzle images. Date will display at 
 - 193 (symb: • img:  ) - ebay#264253871354 3/5 videogamescollection-824 via dragonslayer875. 09.01.2020
 - 194 (symb: / img:  ) - ebay#264253871354 4/5 videogamescollection-824 via dragonslayer875. 09.01.2020
 - 206 (symb: • img: H) - [@triplizard](https://twitter.com/triplizard/status/1222277716554043392) (triplizard#6329 on Discord) via Raezores & TranceFormation - was found via Twitter search "inside collector's edition". 25.03.2020
-- 221 (symb: / img:  ) - [Youtube user superjollymac - video](https://www.youtube.com/watch?v=Mhxynz-LoAI) via GoofyG/Fordish.
+- 221 (symb: / img:  ) - [Youtube user superjollymac - video](https://www.youtube.com/watch?v=Mhxynz-LoAI) via GoofyG/Fordish. 16.12.2020
 - 231 (symb: / img: F) - [@SassyRedGloves](https://twitter.com/SassyRedGloves/status/1016890390413180928) (SassyRedGloves#3667 on Discord) via Raezores - was found via Twitter search "inside collector iam8bit". 18.03.2020
 - 242 (symb: - img: H) - [Depunked#8194 v=fu7gmuJQKXM](https://www.youtube.com/watch?v=fu7gmuJQKXM) via dragonslayer875. 14.01.2020
-- 245 (symb: / img: B) - EthanAndrew#2662 via PitchBright.
+- 245 (symb: / img: B) - EthanAndrew#2662 via PitchBright. 17.12.2020
 - 247 (symb: - img: D) - ebay#153760211946 via BishopNull(#6450 on Discord) via dragonslayer875. 16.01.2020
 - 248 (symb: / img: E) - BishopNull#6450 via dragonslayer875. 16.01.2020
 - 252 (symb: / img:  ) - ebay#264253871354 5/5 videogamescollection-824 via dragonslayer875. 09.01.2020
