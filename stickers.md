@@ -5,7 +5,10 @@ Here we document all the information available on stickers for the INSIDE Collec
 ## The list
 
 symb: stands for "symbol", one of three symbols, a dash, a slash and a dot.
-img: stands for "image", one of the 9 piece puzzle images. Date will display at which date the image/information of the sticker was received (DAY/MONTH/YEAR)
+
+img: stands for "image", one of the 9 piece puzzle images. 
+
+Date will display at which date the image/information of the sticker was received (DAY/MONTH/YEAR)
 
 - 003 (symb: - img: C) - [@GameTradeGregg](https://twitter.com/GameTradeGregg) (DropRateGregg#1591 on Discord) via Raezores - was found via the /r/gamecollecting subreddit by reaching out to user WDCombo with a big collection, which knew Twitter user GameTradeGregg had one. 28.04.2020
 - 020 (symb: / img: B) - [@KaydHendricks](https://twitter.com/KaydHendricks/status/1205585260207050753) (CallMeKayd#5207 on Discord) via Raezores - was found via Twitter search "inside collector's edition". 19.03.2020
@@ -55,7 +58,7 @@ img: stands for "image", one of the 9 piece puzzle images. Date will display at 
 - 343 (symb: - img: A) - [@IamJackSlade](https://twitter.com/IAmJackSlade/status/1184569646013452288) via Raezores - was found via Twitter search "iam8bit inside". 18.03.2020
 - 347 (symb: - img: E) - Darthwahl#4236 https://www.reddit.com/user/Darth_Wahl/. 30.01.2020
 - 354 (symb: / img: C) - sonicstud#5692 + [u/sonicstud](https://www.reddit.com/user/sonicstud/) via iam8bit waitlist & INSIDE subreddit. 09.05.2020
-- 362 (symb: / img: B) - [@DiamondWaddle](https://twitter.com/DiamondWaddle) (slimjim#5633 on DC) via [Fernando CE sticker reply](https://twitter.com/ItsaMeFernando/status/1266215745110683648) via Raezores DM - was found via sticker /324 from Twitter post from @ItsaMeFernando where I replied to ItsaMeFernando asking for the sticker. He replied with an image of it, which iam8bit liked. Twitter user @DiamondWaddle saw this and DM'd me that he also has a Collector's Edition of INSIDE. 19.06.2020
+- 362 (symb: / img: B) - [@DiamondWaddle](https://twitter.com/DiamondWaddle) (slimjim#5633 on Discord) via [Fernando CE sticker reply](https://twitter.com/ItsaMeFernando/status/1266215745110683648) via Raezores DM - was found via sticker /324 from Twitter post from @ItsaMeFernando where I replied to ItsaMeFernando asking for the sticker. He replied with an image of it, which iam8bit liked. Twitter user @DiamondWaddle saw this and DM'd me that he also has a Collector's Edition of INSIDE. 19.06.2020
 - 364 (symb: / img: D) - [/u/The-Demon-Crab](https://www.reddit.com/r/PlaydeadsInside/comments/gxx2zo/the_sticker_from_the_collectors_edition_of_inside/). 11.06.2020
 - 366 (symb: / img: F) - [@_anthonynash](https://twitter.com/_anthonynash/status/1208975146557591553) via Raezores - was found and contacted via Twitter search "iam8bit inside collector's edition", then sent a DM. Was first informed he didn't purchase the CE, but was later messaged from anthony that he did get one in the end. 18.06.2020
 - 384 (symb: / img: F) - [@thecole777](https://www.instagram.com/p/B_-c0SXprLV/) via Raezores - was found via Instagram hashtag "iam8bit", "inside", "insidegame", "playdead". 09.05.2020
