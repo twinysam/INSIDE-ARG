@@ -4,7 +4,11 @@ This repository is meant to keep a public record of most events and relevant dis
 
 ## About INSIDE & the ARG
 
-[INSIDE](https://playdead.com/games/inside) is a video game made by Playdead and first released in June 29, 2016. (Here is a [full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU))
+INSIDE is a video game made by Playdead and first released in June 29, 2016.
+
+- [Official site](https://playdead.com/games/inside)
+- [Trailer](https://www.youtube.com/watch?v=y0uDLEG8Xao)
+- [Full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU) (if you are not much of a gamer and want to know what it is all about, but playing it is a lot more fun)
 
 ![inside](https://i.imgur.com/XVr2WfU.jpg)
 
@@ -46,7 +50,7 @@ This is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
-The community has since been trying to get detailed pictures of each. We are gathering every sticker we've found here: https://github.com/twinysam/INSIDE-ARG/tree/master/images/stickers
+The community has since been trying to get detailed pictures of each. We are gathering every sticker we've found here: https://github.com/twinysam/INSIDE-ARG/blob/master/stickers.md (if you have one, please let us know at the [Discord](https://discord.gg/gQ74gaa))
 
 This is what we know so far:
 
