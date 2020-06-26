@@ -35,7 +35,7 @@ These are the things we are currently trying to figure out:
   - [x] [9 piece puzzle](#9-piece-puzzle) 
 - [ ] [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [ ] [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
-- [x] [MacOS printer code](#macos-printer-code)
+- [x] [MacOS printer codes](#macos-printer-codes)
 
 ### Collector's Edition Stickers
 
