@@ -35,6 +35,7 @@ These are the things we are currently trying to figure out:
   - [x] [9 piece puzzle](#9-piece-puzzle) 
 - [ ] [534brn9653f9j8mmd Puzzle](#534brn9653f9j8mmd-puzzle)
 - [ ] [PS4 cover hidden mystery](#ps4-cover-hidden-mystery)
+- [x] [MacOS printer code](#macos-printer-code)
 
 ### Collector's Edition Stickers
 
@@ -87,11 +88,14 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - April 6 - A "C" image featuring a dash is found, thus enabling a clearer read on some of the characters which were partly concealed underneath a slash in all the previously found "C" images.  ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696749987991650315))
 - Based on that sticker, there was now more evidence to believe there was a number 6 in the code. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696860529813094420))
 - April 20 - Youtuber oddheader [covers still unsolved easter eggs](https://youtu.be/ec_8HLCboDI) and mysteries in video games, INSIDE among them. Which attracts new people to the ARG and the Discord. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/701922554591314070))
-- April 21 - A new discord member (attracted by said youtube video) looks into the Terminal41 website index and uncovers a few previously unknown URLs: `` http://terminal41.link/sys/terminate_terminal/41/terminate.html - 
+- April 21 - A new discord member (attracted by said youtube video) looks into the Terminal41 website index and uncovers a few previously unknown URLs: 
+``` 
+http://terminal41.link/sys/terminate_terminal/41/terminate.html - 
 http://terminal41.link/dat/534brn9653f9j8mmd/ - 
 http://terminal41.link/sys/terminate_terminal/41/y/ - 
 http://terminal41.link/sys/terminateall.html
-`` ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/702030280751317072))
+```
+([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/702030280751317072))
 
 **Explanation of what happened during the night of April 21st**
 
@@ -152,6 +156,43 @@ https://imgur.com/gallery/ipjWYEz ([Discord source](https://discordapp.com/chann
 - other closeup [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835421384900631)
 - closeup of graph [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655835774595497984)
 - nothings happens at 12:12PM or AM in that location of the game [(Discord source)](https://discordapp.com/channels/460626942190813184/461275526716194818/655854897463558154)
+
+---
+
+### MacOS printer codes
+
+On June 23rd, 2020, the MacOS version of INSIDE [was released](https://apps.apple.com/app/inside/id886561127).
+
+As it happened on [previous platform releases](https://wiki.gamedetectives.net/index.php?title=Inside_ARG), this one featured new printer codes.
+
+Chronological events:
+
+- On June 24, people first identifying and posting printer strings. ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725227325750378506))
+- User shikshake uploaded footage of the MacOS printer [here](https://drive.google.com/drive/folders/1aiIOzx_Rs3VAh-wgZt2mUQfHIozmJThk?usp=sharing). ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725421086036197417)))
+- On June 25, users Shikshake, Raezores and Aperson1 have [transcribed all unique lines of code](https://docs.google.com/spreadsheets/d/1u2oKEjKQybt5VbzBqC-D1J9fKxgo2O5gUPaFGGXQAmE/edit), and have found a total of 16 strings. ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725501557579317268))
+- The lines found were as follow:
+```
+---- -------- -- ------------
+------ --•---- ------- --•------ ---- ----•-
+•---- ---- --- ------- -- --- ----------
+-- --- - ----- -- ••-- --- ---- -•-- -----
+- --•-- -- ---•
+---- - -----------•-- ------ ------
+-- - •--- -------- ---- ----- ----- --
+-•-- ------ ------ -•- -•-- ------ ----•--
+----------------- -- •------ ----
+-- -- --------
+---- -••- •--- -----••- --•-------
+--- •----- •--- ----- --- ----•-- --- •---- ----
+------• -- --- -------
+---- -------- -- • ------•---- -•------
+- -------- ---- •- --- -----•- ------- - ----
+--- -----••-- ----- --- ----------
+```
+- Not long after, user EitherOr suggested the possibility of overlaying a text that could match with each series of dashes and dots, so that the dots correspond to certain letters, and thus unlock a hidden message when putting all those letters together. ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725840196490494042))
+- User Mykonos suggested the [E. E. Cummings poem](https://web.cs.dal.ca/~johnston/poetry/pitmonster.html) which is referenced in INSIDE, and along with user shikshake they realized that [it lined up perfectly](https://cdn.discordapp.com/attachments/462637922944811028/725867583890391050/arg.PNG).
+
+**Puzzle SOLVED. Solution:** `hibernation in progress reboot pending`
 
 ## Contributing
 
