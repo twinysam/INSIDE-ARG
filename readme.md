@@ -59,8 +59,6 @@ This is what we know so far:
 - Each sticker has one of three symbols: a dot, a slash or a dash.
 - Each sticker has one of nine different texture images. (We have identified them with letters, from A to I)
 
-The effort to track down as many different copies of the CE as possible, is being recorded in this document: https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit
-
 ---
 
 #### Three symbols
@@ -73,7 +71,7 @@ For instance, if the string was of 10 characters long, it could have been repeat
 
 #### 9 piece puzzle
 
-Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, [an image is formed](https://i.imgur.com/846shEE.jpg) (the letters A to I were added to identify each of the pieces). We had eventually contemplated that the solution was: `dat/534brn9653f9i8rnd` or `dat/534brn9653f9i8nmd`.
+Underneath the symbol of the sticker, there is one of nine different image textures comprised of little dots (which depending on the distance and angle, can be hard to be seen). When arranged together solving the mini-puzzle, [an image is formed](https://i.imgur.com/846shEE.jpg) (the letters A to I were added to identify each of the pieces).
 
 **Chronology of events:**
 
@@ -87,12 +85,13 @@ Underneath the symbol of the sticker, there is one of nine different image textu
 - March 21 - The `terminal41.link/dat/` directory is "discovered" and soon after associated with the puzzle (even though the URL `http://terminal41.link/dat/breach_contribution_reg.html` had already been known for several months). ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/691115918776074242))
 - April 6 - A "C" image featuring a dash is found, thus enabling a clearer read on some of the characters which were partly concealed underneath a slash in all the previously found "C" images.  ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696749987991650315))
 - Based on that sticker, there was now more evidence to believe there was a number 6 in the code. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/696860529813094420))
+- By now it had been considered that the solution could be: `dat/534brn9653f9i8rnd` or `dat/534brn9653f9i8nmd` yet neither URL was correct.
 - April 20 - Youtuber oddheader [covers still unsolved easter eggs](https://youtu.be/ec_8HLCboDI) and mysteries in video games, INSIDE among them. Which attracts new people to the ARG and the Discord. ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/701922554591314070))
 - April 21 - A new discord member (attracted by said youtube video) looks into the Terminal41 website index and uncovers a few previously unknown URLs: 
 ``` 
-http://terminal41.link/sys/terminate_terminal/41/terminate.html - 
-http://terminal41.link/dat/534brn9653f9j8mmd/ - 
-http://terminal41.link/sys/terminate_terminal/41/y/ - 
+http://terminal41.link/sys/terminate_terminal/41/terminate.html
+http://terminal41.link/dat/534brn9653f9j8mmd/
+http://terminal41.link/sys/terminate_terminal/41/y/
 http://terminal41.link/sys/terminateall.html
 ```
 ([discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/702030280751317072))
@@ -168,7 +167,7 @@ As it happened on [previous platform releases](https://wiki.gamedetectives.net/i
 Chronological events:
 
 - On June 24, people first identifying and posting printer strings. ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725227325750378506))
-- User shikshake uploaded footage of the MacOS printer [here](https://drive.google.com/drive/folders/1aiIOzx_Rs3VAh-wgZt2mUQfHIozmJThk?usp=sharing). ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725421086036197417)))
+- User shikshake uploaded footage of the MacOS printer [here](https://drive.google.com/drive/folders/1aiIOzx_Rs3VAh-wgZt2mUQfHIozmJThk?usp=sharing). ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725421086036197417))
 - On June 25, users Shikshake, Raezores and Aperson1 have [transcribed all unique lines of code](https://docs.google.com/spreadsheets/d/1u2oKEjKQybt5VbzBqC-D1J9fKxgo2O5gUPaFGGXQAmE/edit), and have found a total of 16 strings. ([Discord source](https://discordapp.com/channels/460626942190813184/461275582970462209/725501557579317268))
 - The lines found were as follow:
 ```
