@@ -129,6 +129,7 @@ Stickers that we know exist, but don't know what they are.
 - U14 - Friend of user [/u/corrosivescott](https://www.reddit.com/user/corrosivescott) + [@Corrosivescott](https://twitter.com/corrosivescott) - via Raezores - was found by contacting people with large collections on subreddit gamecollecting on Reddit. Updated me that his friend had one, but still awaiting reply. 01.05.2020
 - U15 - [@KingSkylark](https://twitter.com/KingSkylark/status/1268611241657823232) has his collector's edition at work, unsure about sticker.	- via Raezores - was found via Twitter checking the retweets with comments on every post about the collector's edition of INSIDE. 04.06.2020 
 - U16 - Ebay [293628731906](https://www.ebay.com/itm/293628731906?ul_noapp=true) - Seller: rockymountainknight - Contacted by: EB-Raezores - Sent message to seller, but with no reply yet. 27.06.2020
+- U17 - Instagram [@playdeadgames](https://www.instagram.com/p/CCJNrpqgteP/) - via Raezores - was found via checking the posts that Playdead is tagged in. Instagram user [@safrro](https://www.instagram.com/safrro/) tagged Playdead in a post she made with a thanks for the visit at their place in an Instagram post she made with an image displaying the Huddle in Playdead's headquarters. This confirms 100% sure that Playdead also owns a Collector's Edition of INSIDE, but the status of the sticker remains unknown. 03.07.2020
 
 ## Research
 
