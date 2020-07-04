@@ -48,7 +48,7 @@ Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 - [258](/images/stickers/258.jpg) (symb: / img: F) - [@OG_Silverfish](https://twitter.com/OG_Silverfish) (Silverfish#3202 on Discord) via Raezores - was found via Twitter search "inside collector's edition". 05.04.2020
 - [263](/images/stickers/263.jpg) (symb: / img: B) - wquach#9815. 05.04.2020
 - [267](/images/stickers/267.jpg) (symb: — img: F) - [/u/ex143](https://www.reddit.com/r/PlaydeadsInside/comments/czc89n/anybody_managed_to_snag_themselves_one_of_those/) (madx1#1839 on Discord) via dragonslayer875 & Raezores - was found on INSIDE Subreddit via comments in older post. 13.04.2020
-- [282](/images/stickers/282jpg) (symb: / img: C) - 
+- [282](/images/stickers/282.jpg) (symb: / img: C) - 
 - [306](/images/stickers/306.jpg) (symb: — img: I) - [https://www.reddit.com/user/wormy_Burroughs/](https://www.reddit.com/user/wormy_Burroughs/) via dragonslayer875. 26.02.2020
 - [312](/images/stickers/312.png) (symb: / img: [F](/images/stickers/edited/312.jpg)) - EB	ebay#324023467078 & 324075534732 Seller-thegrimangel via PitchBright. 25.01.2020
 - [324](/images/stickers/324.jpg) (symb: / img: I) - [@ItsaMeFernando](https://twitter.com/ItsaMeFernando/status/1266191839104692224) via Raezores - was found via Twitter search "playdead iam8bit collector's edition inside". 29.05.2020
