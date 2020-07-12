@@ -108,7 +108,7 @@ Stickers which have been confirmed, or strongly believed to be lost.
 - L25 - [@SebastianWolff](https://twitter.com/SebastianWolff/status/980908429660192768) 26.04.2020 via Raezores - was found via Twitter post from iam8bit 6th march 2018 about the collector's edition of INSIDE. Sent a DM and was confirmed the sticker was lost. 26.04.2020
 - L26 - [@nvetterli](https://twitter.com/nvetterli/status/1004066247619772416) 05.06.2020 via Raezores - was found via Twitter post from iam8bit 4th of june 2018 by going through iam8bit's Twitter posts back in time. 05.06.2020
 - L27 - [Lotte Busch](https://www.facebook.com/lotte.busch.7/) (Lotte#4692 on DC) via [Limited Printed Games](https://www.facebook.com/groups/1321230431268681) sym: "/" via Raezores - was found via going through posts in the Facebook group Limited Printed Games where Lotte posted showing that she had one. I then reached out to her and got confirmation the sticker is lost, but remembered the sticker was a "/". 12.07.2020
-- L28 - [Ryan Burlison](https://www.facebook.com/ryan.burlison/) via Lotte Busch and Raezores - was found via Lotte Busch searching through the Facebook group [Video Game Vinil Collectors](https://www.facebook.com/groups/1527275480936152) and finding Ryan. I then reached out to him via messages and got confirmation that his sticker was lost. 12.07.2020
+- L28 - [Ryan Burlison](https://www.facebook.com/ryan.burlison/) via Lotte Busch and Raezores - was found via Lotte Busch searching through the Facebook group [Video Game Vinyl Collectors](https://www.facebook.com/groups/1527275480936152) and finding Ryan. I then reached out to him via messages and got confirmation that his sticker was lost. 12.07.2020
 
 ## Unknown stickers
 
