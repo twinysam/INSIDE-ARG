@@ -107,6 +107,8 @@ Stickers which have been confirmed, or strongly believed to be lost.
 - L24 - [@jonbrownloaf](https://twitter.com/jonbrownloaf/status/1251138757731983363) 17.04.2020 via Raezores & [@TheAnnaTheRed](https://twitter.com/TheAnnaTheRed) - was found via Twitter reply in a Tweet to TheAnnaTheRed, where her friend replied that he got one. Sent a DM and was confirmed by jonbrownloaf that the sticker was lost. 17.04.2020
 - L25 - [@SebastianWolff](https://twitter.com/SebastianWolff/status/980908429660192768) 26.04.2020 via Raezores - was found via Twitter post from iam8bit 6th march 2018 about the collector's edition of INSIDE. Sent a DM and was confirmed the sticker was lost. 26.04.2020
 - L26 - [@nvetterli](https://twitter.com/nvetterli/status/1004066247619772416) 05.06.2020 via Raezores - was found via Twitter post from iam8bit 4th of june 2018 by going through iam8bit's Twitter posts back in time. 05.06.2020
+- L27 - [Lotte Busch](https://www.facebook.com/lotte.busch.7/) (Lotte#4692 on DC) via [Limited Printed Games](https://www.facebook.com/groups/1321230431268681) sym: "/" via Raezores - was found via going through posts in the Facebook group Limited Printed Games where Lotte posted showing that she had one. I then reached out to her and got confirmation the sticker is lost, but remembered the sticker was a "/". 12.07.2020
+- L28 - [Ryan Burlison](https://www.facebook.com/ryan.burlison/) via Lotte Busch and Raezores - was found via Lotte Busch searching through the Facebook group [Video Game Vinil Collectors](https://www.facebook.com/groups/1527275480936152) and finding Ryan. I then reached out to him via messages and got confirmation that his sticker was lost. 12.07.2020
 
 ## Unknown stickers
 
@@ -131,6 +133,7 @@ Stickers that we know exist, but don't know what they are.
 - U14 - Friend of user [/u/corrosivescott](https://www.reddit.com/user/corrosivescott) + [@Corrosivescott](https://twitter.com/corrosivescott) - via Raezores - was found by contacting people with large collections on subreddit gamecollecting on Reddit. Updated me that his friend had one, but still awaiting reply. 01.05.2020
 - U15 - [@KingSkylark](https://twitter.com/KingSkylark/status/1268611241657823232) has his collector's edition at work, unsure about sticker.	- via Raezores - was found via Twitter checking the retweets with comments on every post about the collector's edition of INSIDE. 04.06.2020 
 - U16 - Instagram [@playdeadgames](https://www.instagram.com/p/CCJNrpqgteP/) - via Raezores - was found via checking the posts that Playdead is tagged in. Instagram user [@safrro](https://www.instagram.com/safrro/) tagged Playdead in a post she made with a thanks for the visit at their place in an Instagram post she made with an image displaying the Huddle in Playdead's headquarters. This confirms 100% sure that Playdead also owns a Collector's Edition of INSIDE, but the status of the sticker remains unknown. 03.07.2020
+- U17 - Friend of [Tony Mora](https://www.facebook.com/antonio.moraabalos) has a CE with unknown status via Lotte Busch & Raezores - was found via Lotte Busch searching through the Facebook group [Video Game Vinil Collectors](https://www.facebook.com/groups/1527275480936152) and finding Tony Mora. I then sent him a message, but with no reply yet. 12.07.2020 
 
 ## Research
 
