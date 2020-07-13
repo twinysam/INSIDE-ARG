@@ -90,7 +90,7 @@ Stickers which have been confirmed, or strongly believed to be lost.
 - L07 - vi/o#3653 + [@v_input_output ](https://twitter.com/v_input_output/status/1206719263555411968). 17.12.2020
 - L08 - https://www.reddit.com/user/Knuckles316/
 - L09 - https://www.reddit.com/user/umryan/ 
-- L10 - [https://twitter.com/hotbabybryan](https://twitter.com/hotbabybryan/status/1205251425204228096)
+- L10 - [https://twitter.com/hotbabybryan](https://twitter.com/hotbabybryan/status/1205251425204228096) + Crista Castro (crista#7234 on DC) via Lotte Busch & Raezores - was first found on Twitter via a person that is still unknown, and the status confirmed lost at date unknown. Fast forward to 12.07.2020, Facebook user Lotte Busch found earlier by Raezores on the Limited Printed Games group on Facebook goes searching on the Video Game Vinyl collectors Facebook group and finds Facebook user Tony Mora. I, Razeore reach out to Tony who has a friend who has the CE and the friend is Crista who is the wife of Twitter user hotbabybryan. Final and updated status confirmed by her. 13.07.2020
 - L11 - [Youtube-Hunter Short](https://www.youtube.com/watch?v=jQUf8yhqEc4) via dragonslayer875. 15.01.2020
 - L12 - [Youtube-ElectroSpaghotti](https://www.youtube.com/watch?v=ahCmqg1hhSA) The symbol is seen as a dash: [“-”](https://youtu.be/ahCmqg1hhSA?t=124) via PitchBright. 14.01.2020
 - L13 - [Youtube-Comedia A Go-Go/MyNeighborJess](https://www.youtube.com/watch?v=G4z5r4rZH2w) The symbol is seen as a dash: [“-”](https://youtu.be/G4z5r4rZH2w?t=143) via GoofyG. 21.01.2020
@@ -133,7 +133,6 @@ Stickers that we know exist, but don't know what they are.
 - U14 - Friend of user [/u/corrosivescott](https://www.reddit.com/user/corrosivescott) + [@Corrosivescott](https://twitter.com/corrosivescott) - via Raezores - was found by contacting people with large collections on subreddit gamecollecting on Reddit. Updated me that his friend had one, but still awaiting reply. 01.05.2020
 - U15 - [@KingSkylark](https://twitter.com/KingSkylark/status/1268611241657823232) has his collector's edition at work, unsure about sticker.	- via Raezores - was found via Twitter checking the retweets with comments on every post about the collector's edition of INSIDE. 04.06.2020 
 - U16 - Instagram [@playdeadgames](https://www.instagram.com/p/CCJNrpqgteP/) - via Raezores - was found via checking the posts that Playdead is tagged in. Instagram user [@safrro](https://www.instagram.com/safrro/) tagged Playdead in a post she made with a thanks for the visit at their place in an Instagram post she made with an image displaying the Huddle in Playdead's headquarters. This confirms 100% sure that Playdead also owns a Collector's Edition of INSIDE, but the status of the sticker remains unknown. 03.07.2020
-- U17 - Friend of [Tony Mora](https://www.facebook.com/antonio.moraabalos) has a CE with unknown status via Lotte Busch & Raezores - was found via Lotte Busch searching through the Facebook group [Video Game Vinil Collectors](https://www.facebook.com/groups/1527275480936152) and finding Tony Mora. I then sent him a message, but with no reply yet. 12.07.2020 
 
 ## Research
 
