@@ -3,6 +3,7 @@
 Here we document all the information available on stickers for the INSIDE Collector's Edition.
 
 ## The list
+If you want to see a shorter version of the list to just get a quick overview on what we have found without all the information behind, please use this [Inside Collector's Edition owners list - (Google Document)](https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit)
 
 symb: stands for "symbol", one of three symbols, a dash, a slash and a dot.
 
@@ -135,6 +136,7 @@ Stickers that we know exist, but don't know what they are.
 - U14 - Friend of user [/u/corrosivescott](https://www.reddit.com/user/corrosivescott) + [@Corrosivescott](https://twitter.com/corrosivescott) - via Raezores - was found by contacting people with large collections on subreddit gamecollecting on Reddit. Updated me that his friend had one, but still awaiting reply. 01.05.2020
 - U15 - [@KingSkylark](https://twitter.com/KingSkylark/status/1268611241657823232) has his collector's edition at work, unsure about sticker.	- via Raezores - was found via Twitter checking the retweets with comments on every post about the collector's edition of INSIDE. 04.06.2020 
 - U16 - Instagram [@playdeadgames](https://www.instagram.com/p/CCJNrpqgteP/) - via Raezores - was found via checking the posts that Playdead is tagged in. Instagram user [@safrro](https://www.instagram.com/safrro/) tagged Playdead in a post she made with a thanks for the visit at their place in an Instagram post she made with an image displaying the Huddle in Playdead's headquarters. This confirms 100% sure that Playdead also owns a Collector's Edition of INSIDE, but the status of the sticker remains unknown. 03.07.2020
+- U17 - Friend of Facebook user [Robert Borg](https://www.facebook.com/robert.borg.587/) has a sealed collector's edition with no updates yet - via Raezores - was found via seeing one of Robert's post showing off a huge collection on the Facebook group [Collector's Edition Video Game Boxsets Enthusiasts!](https://www.facebook.com/groups/583500918499228) and then contacting him asking if he had some knowledge. He informs that a friend of his has the collector's edition sealed, but stored away and will update with a sticker image when he has time. 05.07.2020
 
 ## Research
 
