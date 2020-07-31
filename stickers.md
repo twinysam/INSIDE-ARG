@@ -91,7 +91,7 @@ Stickers which have been confirmed, or strongly believed to be lost.
 - L05 - Its Electric Shock!#7779 [u/Mariokart2001](https://www.reddit.com/user/Mariokart2001) 05.01.2020
 - L06 - Cameron Bryce#3946 The symbol in the image is seen as a slash: ["/"](https://cdn.discordapp.com/attachments/461275582970462209/665589398779330594/MVI_2250.00_13_58_19.Still001.png). 11.01.2020
 - L07 - vi/o#3653 + [@v_input_output ](https://twitter.com/v_input_output/status/1206719263555411968). 17.12.2020
-- L08 - https://www.reddit.com/user/Knuckles316/
+- L08 - https://www.reddit.com/user/Knuckles316/ via dragonslayer875. 28.01.2020
 - L09 - https://www.reddit.com/user/umryan/ 
 - L10 - [@hotbabybryan](https://twitter.com/hotbabybryan/status/1205251425204228096) + Crista Castro (crista#7234 on DC) via Lotte Busch & Raezores - was first found on Twitter via a person that is still unknown, and the status confirmed lost at date unknown. Fast forward to 12.07.2020, when Facebook user [Lotte Busch](https://www.facebook.com/lotte.busch.7/) that was found earlier by Raezores on the [Limited Printed Games](https://www.facebook.com/groups/1321230431268681) group on Facebook, goes searching on the [Video Game Vinyl Collectors](https://www.facebook.com/groups/1527275480936152) Facebook group and finds Facebook user Tony Mora. I, Razeores reach out to Tony who has a friend who has the collector's edition and the friend is Crista who is the wife of Twitter user hotbabybryan. Final and updated status confirmed by her. 13.07.2020
 - L11 - [Youtube-Hunter Short](https://www.youtube.com/watch?v=jQUf8yhqEc4) via dragonslayer875. 15.01.2020
