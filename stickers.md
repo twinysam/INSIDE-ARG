@@ -1,12 +1,14 @@
 # Stickers
 
-Here we document all the information available on stickers for the INSIDE Collector's Edition.
+Here we document all the information available on stickers for the [INSIDE Collector's Edition](readme.mdh#collectors-edition-stickers).
 
 ## The list
 
+All the found and identified stickers with some details for each one.
+
 symb: stands for "symbol", one of three symbols, a dash, a slash and a dot.
 
-img: stands for "image", one of the 9 piece puzzle images.
+img: stands for "image", one of the [9 piece puzzle](readme.md#9-piece-puzzle) images.
 
 Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 
