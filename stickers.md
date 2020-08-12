@@ -3,7 +3,6 @@
 Here we document all the information available on stickers for the INSIDE Collector's Edition.
 
 ## The list
-If you want to see a shorter version of the list to just get a quick overview on what we have found without all the information behind, please use this [Inside Collector's Edition owners list - (Google Document)](https://docs.google.com/document/d/1ccgEU722Kz5kDrq0wmA5pd6Du05qAaWNN7kRaTlG9jU/edit)
 
 symb: stands for "symbol", one of three symbols, a dash, a slash and a dot.
 
@@ -60,6 +59,7 @@ Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 - [334](/images/stickers/334.jpg) (symb: — img: [A](/images/stickers/edited/334.png)) - [@bathroomgamers](https://www.instagram.com/bathroomgamers/?hl=nb) (midway23#9732 on Discord) via Raezores - was found via Instagram post from iam8bit in the comments. 13.04.2020
 - [336](/images/stickers/336.jpg) (symb: — img: C) - Glumok#6235 via INSIDE’s subreddit. 04.06.2020
 - [338](/images/stickers/338.jpg) (symb: — img: E) - [@NicelyNeatly](https://twitter.com/NicelyNeatly/status/1220526726863654912) (jux#4720 on Discord) via Raezores - was found via Twitter search "huddle". 05.06.2020
+- [339](/images/stickers/339.jpg) (symb: / img: F)
 - [343](/images/stickers/343.jpg) (symb: — img: A) - [@IamJackSlade](https://twitter.com/IAmJackSlade/status/1184569646013452288) via Raezores - was found via Twitter search "iam8bit inside". 18.03.2020
 - [347](/images/stickers/347.jpg) (symb: — img: E) - Darthwahl#4236 https://www.reddit.com/user/Darth_Wahl/. 30.01.2020
 - [354](/images/stickers/354.jpg) (symb: / img: C) - sonicstud#5692 + [u/sonicstud](https://www.reddit.com/user/sonicstud/) via iam8bit waitlist & INSIDE subreddit. 09.05.2020
