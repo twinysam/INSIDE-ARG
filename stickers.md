@@ -70,7 +70,7 @@ Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 - [405](/images/stickers/405.jpg) (symb: / img: I) - nailhead79#7474 via iam8bit waitlist. 10.05.2020
 - [597](/images/stickers/597.png) (symb: / img: C) - [Youtube-iam8bit](https://www.youtube.com/watch?v=zhCdGdqCIRU) PH&EM via PitchBright. 15.01.2020
 
-Note: Some of the sticker symbols can't be identified by picture because the image quality isn't detailed enough to determine which of the 9 pieces it is. However, since it is a repeating pattern, we know which symbol belongs to each sticker number. These stickers have been filled using the pattern: /038(B), /065(B), •193(D), /194(E), /221(E), /252(I), /597(C).
+Note: Some of the sticker texture images can't be identified by picture because the image quality isn't detailed enough to determine which of the 9 pieces it is. However, since it is a repeating pattern, we know which image belongs to each sticker number. These stickers have been filled using the pattern: 038(B), 065(B), 193(D), 194(E), 221(E), 252(I), 597(C).
 
 The pattern is as follows:
 
