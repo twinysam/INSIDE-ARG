@@ -1,6 +1,6 @@
 # Stickers
 
-Here we document all the information available on stickers for the [INSIDE Collector's Edition](readme.mdh#collectors-edition-stickers).
+Here we document all the information available on stickers for the [INSIDE Collector's Edition](readme.md#collectors-edition-stickers).
 
 ## The list
 
