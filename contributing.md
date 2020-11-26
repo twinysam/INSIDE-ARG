@@ -4,9 +4,9 @@ Keeping up with all the developments of the ARG, and comprehensively documenting
 
 You can find a To Do list of things I'm currently working on, and ideas for future things to add in our [Main Mission](https://github.com/twinysam/INSIDE-ARG/projects/2).
 
-If you notice any mistakes, anything that needs correcting or improving, feel free to [open an issue](https://github.com/twinysam/INSIDE-ARG/issues).
+If you notice any mistakes, anything that needs correcting or improving, feel free to [open an issue](https://github.com/twinysam/INSIDE-ARG/issues/new).
 
-If you'd like to be more proactive and submit a correction or improvement yourself, you can [open a pull request](https://github.com/twinysam/INSIDE-ARG/pulls).
+If you'd like to be more proactive and submit a correction or improvement yourself, you can [open a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 If you intend to contribute something significant (anything that would represent a time investment of more than a few minutes), please contact me first instead of just going ahead with a pull request, so that we can coordinate our efforts.
 
