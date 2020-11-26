@@ -90,9 +90,9 @@ Stickers which have been confirmed, or strongly believed to be lost.
 
 "L" codes (such as "L01") will be used to easily identify each lost sticker.
 
-- L01 - ebay#264253871354 1/5 videogamescollection-824 via dragonslayer875. 09.01.2020
+- L01 - [ebay#264253871354](https://www.ebay.com/itm/INSIDE-Collector-s-Edition-see-description/264253871354) 1/5 videogamescollection-824 via dragonslayer875. 09.01.2020
 - L02 - [@sucksandwich](https://twitter.com/sucksandwich/status/1205378875825348608) via Raezores - was found via Twitter search "iam8bit RealDoll 375$ Inside collector's edition". Was informed that he had sold the collector's edition to a person on eBay some time ago, but didn't want to provide that information because of privacy reasons. 19.03.2020
-- L03 - [@RedRabbitQueen](https://twitter.com/RedRabbitQueen/status/1135606603057684480) The symbol in the image is seen as a dash: [“-”](https://imgur.com/a/73zTn6p) the rest is impossible to see, which is why the sticker has the lost status. via Raezores - was found via Twitter search "iam8bit INSIDE collector's edition". 26.03.2020
+- L03 - (symb: -) [@RedRabbitQueen](https://twitter.com/RedRabbitQueen/status/1135606603057684480) When asked she told us she had thrown the sticker away, but she had [this picture of it from which we could dissern it was a dash](https://imgur.com/a/73zTn6p), the rest is impossible to see, which is why the sticker has the lost status. via Raezores - was found via Twitter search "iam8bit INSIDE collector's edition". 26.03.2020
 - L04 - Lewis1806#3367 (Harry Darger) [u/Kaboom_up3](https://www.reddit.com/user/Kaboom_up3) via PitchBright. 17.03.2020
 - L05 - Its Electric Shock!#7779 [u/Mariokart2001](https://www.reddit.com/user/Mariokart2001) 05.01.2020
 - L06 - Cameron Bryce#3946 The symbol in the image is seen as a slash: ["/"](https://cdn.discordapp.com/attachments/461275582970462209/665589398779330594/MVI_2250.00_13_58_19.Still001.png). 11.01.2020
