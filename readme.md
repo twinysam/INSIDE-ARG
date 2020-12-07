@@ -51,7 +51,7 @@ This is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
-The community has since been trying to get detailed pictures of each. We are gathering every sticker we've found here: [stickers.md](stickers.md) (if you have one, please let us know at the [Discord](https://discord.gg/gQ74gaa))
+The community has since been trying to get detailed pictures of each. **We are gathering every sticker we've found here:** [stickers.md](stickers.md) (if you have one, please let us know at the [Discord](https://discord.gg/gQ74gaa))
 
 This is what we know so far:
 
