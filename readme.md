@@ -8,14 +8,13 @@ INSIDE is a video game made by Playdead and first released in June 29, 2016.
 
 - [Official site](https://playdead.com/games/inside)
 - [Trailer](https://www.youtube.com/watch?v=y0uDLEG8Xao)
-- [Full playthrough](https://www.youtube.com/watch?v=gH4MkqbKieU) (if you are not much of a gamer and want to know what it is all about, but playing it is a lot more fun)
 
 ![inside](https://i.imgur.com/XVr2WfU.jpg)
 
-Early on, hidden things were discovered in the game. Some of those lead us to secret websites and other clues, and puzzles started happening outside of the game.
+Early on, hidden things were discovered in the game. Some of those lead us to secret websites and other clues, and eventually puzzles started happening outside of the game.
 Playdead has been hinting at their [upcoming game](https://www.instagram.com/p/BPfgOnfBrKu/) with it.
 
-The ongoing effort to solve the puzzles and mysteries is happening at the unofficial Playdead Discord server: https://discord.gg/gQ74gaa
+The ongoing efforts to solve the puzzles and mysteries is happening at the unofficial Playdead Discord server: https://discord.gg/gQ74gaa
 
 Would like to help out with the documentation? [check this section](#contributing).
 
@@ -39,7 +38,7 @@ These are the things we are currently trying to figure out:
 
 ### Collector's Edition Stickers
 
-Playdead in collaboration with iam8bit made a special collector's edition (hereby referred to as CE) limited to 1000 copies.
+Playdead in collaboration with iam8bit made a special collector's edition (hereby referred to as CE).
 
 It started to be received by December 12, 2019. That's when iam8bit released this making of video, revealing the content of the CE which was previously unknown: https://www.youtube.com/watch?v=8vG2A0BjMiY
 
@@ -51,11 +50,11 @@ This is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
-The community has since been trying to get detailed pictures of each. **We are gathering every sticker we've found here:** [stickers.md](stickers.md) (if you have one, please let us know at the [Discord](https://discord.gg/gQ74gaa))
+The community has since been trying to get detailed pictures of each. **We are gathering every sticker we've found here:** [stickers.md](stickers.md) (if you have one, please let us know at the [Playdead Unofficial Discord](https://discord.gg/gQ74gaa))
 
 This is what we know so far:
 
-- Each sticker has a unique three digit number (supposedly that would be the copy number, from 001, or 000 to 999)
+- Each sticker has a unique three digit number (supposedly that would be the copy number). As of December 2020, [we have evidence](stickers.md) to believe that no more than 500 copies are out there in the world.
 - Each sticker has one of three symbols: a dot, a slash or a dash.
 - Each sticker has one of nine different texture images. (We have identified them with letters, from A to I)
 
@@ -63,9 +62,9 @@ This is what we know so far:
 
 #### Three symbols
 
-The symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) might reveal another message or code. We have yet to find several consecutively numbered stickers, since that might be the order needed to arrange them. If this is the case, it is expected that it won't be required to gather ALL the stickers (many of them have already been confirmed to have been lost or thrown away), but rather a much smaller number of them (or so we hope!).
+The symbols (a [dot](https://i.imgur.com/RvKX4CI.jpg), a [dash](https://i.imgur.com/LaZ3Fg4.jpg) and a [slash](https://i.imgur.com/v290XRN.jpg)), which had been previously used in the [printer strings](https://wiki.gamedetectives.net/index.php?title=Inside_ARG#Printer_Strings) might reveal another message or code. We have yet to find several consecutively numbered stickers, since that might be the order needed to arrange them. If this is the case, it is expected that it won't be required to gather ALL the stickers (many of them have already been [confirmed to have been lost](stickers.md#lost-stickers) or thrown away), but rather a much smaller number of them (or so we hope!).
 
-For instance, if the string was of 10 characters long, it could have been repeated 100 times to give it a very good margin of error. However, so far the printer strings have been far longer than that (often 32 characters long, across many lines).
+For instance, if the string was of 10 characters long, it could have been repeated 50 times to give it a very good margin of error. However, so far the printer strings have been far longer than that (often 32 characters long, across many lines).
 
 ---
 
