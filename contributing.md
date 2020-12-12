@@ -4,17 +4,17 @@ Keeping up with all the developments of the ARG, and comprehensively documenting
 
 You can find a To Do list of things I'm currently working on, and ideas for future things to add in our [Main Mission](https://github.com/twinysam/INSIDE-ARG/projects/2).
 
+If you have questions, suggestions or ideas, feel free to [start a discussion](https://github.com/twinysam/INSIDE-ARG/discussions).
+
 If you notice any mistakes, anything that needs correcting or improving, feel free to [open an issue](https://github.com/twinysam/INSIDE-ARG/issues/new).
 
 If you'd like to be more proactive and submit a correction or improvement yourself, you can [open a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
-If you intend to contribute something significant (anything that would represent a time investment of more than a few minutes), please contact me first instead of just going ahead with a pull request, so that we can coordinate our efforts.
+If you intend to contribute something significant (anything that would represent a time investment of more than a few minutes), please [open a discussion first](https://github.com/twinysam/INSIDE-ARG/discussions), so that we can coordinate our efforts.
 
 ## Contact me
 
-You can reach me out under my same handle (twinysam) over at the Playdead Unofficial Discord: https://discord.gg/gQ74gaa
-
-I'm open to any suggestions and ideas.
+Besides the Github Discussions, you can reach me out under my same handle (twinysam) over at the Playdead Unofficial Discord: https://discord.gg/gQ74gaa 
 
 ## Using Github
 
