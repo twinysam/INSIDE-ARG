@@ -1,6 +1,6 @@
 # Contributing
 
-Keeping up with all the developments of the ARG, and comprehensively documenting puzzles from beginning to end can be a very time-consuming undertaking. Therefor help in any regard is very much appreciated.
+Keeping up with all the developments of the ARG, and comprehensively documenting puzzles from beginning to end can be a very time-consuming undertaking. Therefore help in any regard is very much appreciated.
 
 You can find a To Do list of things I'm currently working on, and ideas for future things to add in our [Main Mission](https://github.com/twinysam/INSIDE-ARG/projects/2).
 
