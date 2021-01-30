@@ -75,6 +75,7 @@ Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 - [384](/images/stickers/384.png) (symb: / img: F) - [@thecole777](https://www.instagram.com/p/B_-c0SXprLV/) via Raezores - was found via Instagram hashtag "iam8bit", "inside", "insidegame", "playdead". 09.05.2020
 - [405](/images/stickers/405.jpg) (symb: / img: I) - nailhead79#7474 via iam8bit waitlist. 10.05.2020
 - [469](/images/stickers/469.jpg) (symb: - img: A) - via Discord user thescentofpaper. 11.01.2021
+- [475](/images/stickers/475.jpg) (symb: / img: G) - via Discord user GreatWhiteHeist ([discord link](https://discord.com/channels/460626942190813184/461275582970462209/804970613650751509)). 31.01.2021
 - [597](/images/stickers/597.png) (symb: / img: C) - [Youtube-iam8bit](https://www.youtube.com/watch?v=zhCdGdqCIRU) PH&EM via PitchBright. 15.01.2020
 
 Note: Some of the sticker symbols can't be identified by picture because the image quality isn't detailed enough to determine which of the 9 pieces it is. However, since it is a repeating pattern, we know which symbol belongs to each sticker number. These stickers have been filled using the pattern: 038(B), 065(B), 193(D), 194(E), 221(E), 252(I), 597(C).
