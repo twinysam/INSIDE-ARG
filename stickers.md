@@ -111,11 +111,7 @@ Stickers which have been confirmed, or strongly believed to be lost.
 - L17 - [@KyleMHilliard](https://twitter.com/KyleMHilliard/status/971065339311280130) (KyleMHilliard#1989 on Discord) + [Youtube video](https://www.youtube.com/watch?v=Pbkq8Ey_s0k) - via Raezores - was found via Twitter search "inside collector's edition Playdead". Sent a DM and Kyle confirmed that the sticker was lost. 17.03.2020
 - L18 - Friend of user [@KyleMHilliard](https://twitter.com/KyleMHilliard). Want to stay anonymous - via Raezores - Kyle informed that he had bought two Collector's Editions, where one was gifted to a friend. His friend wanted to remain anonymous, and since none of the two knew about the stickers, it was confirmed lost as well. 20.03.2020
 - L19 - [@adreynolds25](https://twitter.com/adreynolds25/status/984855645668233218) (Adreynolds25#8888 on Discord) - via Raezores - was found via Twitter search "iam8bit inside collector's edition". They confirmed they lost the sticker ([discord link](https://discordapp.com/channels/460626942190813184/461275582970462209/690949963445698561)) 21.03.2020
-- L20 - [@HomuncDraws](https://twitter.com/HomuncDraws/status/1206734600556310529)
-- 
--  
--   
--     - via Raezores & TranceFormation - was found via Twitter search "Inside collector's edition". Was contacted by TranceFormation once, then later by Raezores. Got confirmation via Twitter DMs that the sticker was lost. 27.03.2020
+- L20 - [@HomuncDraws](https://twitter.com/HomuncDraws/status/1206734600556310529) - via Raezores & TranceFormation - was found via Twitter search "Inside collector's edition". Was contacted by TranceFormation once, then later by Raezores. Got confirmation via Twitter DMs that the sticker was lost. 27.03.2020
 - L21 - [@rebootdunedin](https://www.instagram.com/p/B6L7QtEpsUF/) 11.04.2020 via Raezores - was found via Instagram hashtag search "#insidegame". Sent a DM and was confirmed that the sticker was lost. 11.04.2020
 - L22 - [@cyguy56](https://twitter.com/cyguy56/status/971826685011202054) 15.04.2020 via Raezores - was found under the comments via Twitter post from iam8bit 6th march 2018 about the collector's edition of INSIDE. Sent a DM, and cyguy confirmed the sticker was lost. 15.04.2020
 - L23 - [@PMaka1991](https://twitter.com/pmaka1991/status/1228847438976495616?s=21&fbclid=IwAR1VPBbSe6Wqz69TA03jQvGoKxXck90KGvSHgUxXAVjhZFxAoc7IT4oFGQI) 16.04.2020 via Raezores - was found via Twitter search "INSIDE collector's edition iam8bit Playdead". Sent a DM and was confirmed that the sticker was lost. 16.04.2020
