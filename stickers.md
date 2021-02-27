@@ -2,9 +2,6 @@
 
 Here we document all the information available on stickers for the [INSIDE Collector's Edition](readme.md#collectors-edition-stickers).
 
-### Note with the use of Discord, + link to the Google Document: 
-We have added in links to the sources where possible with Discord. Some of them won't have that because it was via private messages, or via another platform that the source is, via Discord. Also be aware that some Discord users left the server. This affects the search function in Discord. Another thing Discord users can do is to change their name and tag, this means that some of the Discord names below might potentially have changed their name after their sticker status was originally posted here. We try to keep this updated if/when there are any anomalies with the Google Document, which might cause confusion. However, Discord users changing names or leaving the server is something we cannot keep track of at any given time, because it is outside of our control.
-
 ## The list
 
 All the found and identified stickers with some details for each one.
@@ -155,6 +152,10 @@ Stickers that we know exist, but don't know what they are.
 - U18 - eBay [254710778465](https://www.ebay.com/itm/254710778465?ul_noapp=true) Seller: aeonpulse - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 06.09.2020 - This status is now changed and added to L29 as the sticker is confirmed lost by the seller. 06.09.2020
 - U19 - eBay [174564388706](https://www.ebay.com/itm/174564388706?ul_noapp=true) Seller: goddessoftechno - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 19.12.2020
 - U20 - Discord user DankDoggo#1627 found the Huddle in one of Nick Robinson/Babylonian's videos at [7:22 in the youtube video "The Lost McDonald's Game Iceberg, explained"](https://youtu.be/d23bAqGtImo?t=442), and later posted it to #off-topic, ([Discord link](https://discordapp.com/channels/460626942190813184/460856082865061889/792475622780829736)). DankDoggo later tried to tweet at @Babylonian, but without response, and he later tried in his Twitch streams to get a response. Babylonian said he will get back to him, but has not yet been contacted back, and we will try to reach him next time he goes livestreaming. 26.12.2020
+
+**Note with the use of Discord**
+ 
+We have added in links to the sources where possible with Discord. Some of them won't have that because it was via private messages, or via another platform that the source is, via Discord. Also be aware that some Discord users left the server. This affects the search function in Discord. Another thing Discord users can do is to change their name and tag, this means that some of the Discord names below might potentially have changed their name after their sticker status was originally posted here. We try to keep this updated if/when there are any anomalies with the Google Document, which might cause confusion. However, Discord users changing names or leaving the server is something we cannot keep track of at any given time, because it is outside of our control.
 
 ## Research
 
