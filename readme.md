@@ -14,7 +14,7 @@ INSIDE is a video game made by Playdead and first released in June 29, 2016.
 Early on, hidden things were discovered in the game. Some of those lead us to secret websites and other clues, and eventually puzzles started happening outside of the game.
 Playdead has been hinting at their [upcoming game](https://www.instagram.com/p/BPfgOnfBrKu/) with it.
 
-The ongoing efforts to solve the puzzles and mysteries is happening at the unofficial Playdead Discord server: https://discord.gg/gQ74gaa
+The ongoing efforts to solve the puzzles and mysteries is happening at the unofficial Playdead Discord server: https://discord.gg/dS7uYDNzrw
 
 Would like to help out with the documentation? [check this section](#contributing).
 
@@ -50,7 +50,7 @@ This is what those stickers look like:
 
 ![Collector's Edition sticker](https://i.imgur.com/1mLxx7Z.png)
 
-The community has since been trying to get detailed pictures of each. **We are gathering every sticker we've found here:** [stickers.md](stickers.md) (if you have one, please let us know at the [Playdead Unofficial Discord](https://discord.gg/gQ74gaa))
+The community has since been trying to get detailed pictures of each. **We are gathering every sticker we've found here:** [stickers.md](stickers.md) (if you have one, please let us know at the [Playdead Unofficial Discord](https://discord.gg/dS7uYDNzrw))
 
 This is what we know so far:
 

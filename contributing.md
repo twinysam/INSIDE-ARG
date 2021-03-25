@@ -14,7 +14,7 @@ If you intend to contribute something significant (anything that would represent
 
 ## Contact me
 
-Besides the Github Discussions, you can reach me out under my same handle (twinysam) over at the Playdead Unofficial Discord: https://discord.gg/gQ74gaa 
+Besides the Github Discussions, you can reach me out under my same handle (twinysam) over at the Playdead Unofficial Discord: https://discord.gg/dS7uYDNzrw 
 
 ## Using Github
 
