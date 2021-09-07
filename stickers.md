@@ -61,6 +61,7 @@ Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 - [312](/images/stickers/312.png) (symb: / img: [F](/images/stickers/edited/312.jpg)) - eBay	ebay#324023467078 & 324075534732 Seller-thegrimangel via PitchBright. 25.01.2020
 - [324](/images/stickers/324.jpg) (symb: / img: I) - [@ItsaMeFernando](https://twitter.com/ItsaMeFernando/status/1266191839104692224) via Raezores - was found via Twitter search "playdead iam8bit collector's edition inside". 29.05.2020
 - [328](/images/stickers/328.jpg) (symb: - img: [D](/images/stickers/edited/328.jpg)) - u/mepo_pines via dragonslayer875. 26.01.2020
+- [333](/images/stickers/333.jpg) (symb: / img: I) - eBay [154592369029](https://www.ebay.com/itm/154592369029?) agdalton1985 via Raezores - was found by having eBay email notifications on for the words "Inside collector's edition ps4 iam8bit RealDoll". Sticker image was already provided in the listing, but not too visible because the seller wasn't aware of the ARG. Seller was contacted and he replied with a clearer image of the sticker the same day. 01.09.2021
 - [334](/images/stickers/334.jpg) (symb: - img: [A](/images/stickers/edited/334.png)) - [@bathroomgamers](https://www.instagram.com/bathroomgamers/?hl=nb) (midway23#9732 on Discord) via Raezores - was found via Instagram post from iam8bit in the comments. 13.04.2020
 - [336](/images/stickers/336.jpg) (symb: - img: C) - Glumok#6235 via INSIDE’s subreddit. ([Discord link](https://discordapp.com/channels/460626942190813184/461275582970462209/717864261858230314)). 04.06.2020
 - [338](/images/stickers/338.jpg) (symb: - img: E) - [@NicelyNeatly](https://twitter.com/NicelyNeatly/status/1220526726863654912) (jux#4720 on Discord) via Raezores - was found via Twitter search "huddle". 05.06.2020
@@ -157,7 +158,7 @@ Stickers that we know exist, but don't know what they are.
  
 We have added links to the Discord sources where possible. Some of them won't have it because contact happened via private messages, or through another platform entirely. It should also be noted that some Discord users have abandoned the server and/or deleted their accounts. This affects the ability to search for material referencing them. Discord users can also change their user name, this means that some of the Discord names mentioned above might not be up to date and thus not reflect their current user name. We try to keep this updated if/when there any significant reasons which might cause confusion. However, Discord users changing names or leaving the server is something we cannot keep track of, it is simply outside of our control.
 
-That said, Discord links are permament, so they will continue to point to the relevant discussions regardless of users changing their names or deleting their accounts.
+That said, Discord links are permanent, so they will continue to point to the relevant discussions regardless of users changing their names or deleting their accounts.
 
 ## Research
 
