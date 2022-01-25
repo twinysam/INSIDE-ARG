@@ -155,6 +155,8 @@ Stickers that we know exist, but don't know what they are.
 - U21 - eBay [294130150031](https://www.ebay.com/itm/294130150031?ul_noapp=true) Seller: fide1i0 - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 19.04.2021
 - U22 - Discord user kobutsu#1964 found Twitter user [@owsshanada](https://twitter.com/owsshanada) and two posts that he posted, showcasing the INSIDE Collector's Edition and the Huddle: [Post 1](https://twitter.com/owsshanada/status/1387976162731724804), showcasing Huddle, boy and PS4 game. [Post 2](https://twitter.com/owsshanada/status/1387975278006177793), showcasing the boy, box, Huddle. He also made another post [showcasing the art cards and boy](https://twitter.com/owsshanada/status/1388170043788197895). I, Raezores tried replying to several of the posts, and also contacting him via his website, but without response yet. - Via Kobutsu and Raezores. 30.04.2021. [Discord link](https://discord.com/channels/460626942190813184/461275526716194818/837675136797769728) 
 - U23 - eBay [224665135284](https://www.ebay.com/itm/224665135284?) Seller: fornudd - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 28.10.2021
+- U24 - eBay [133999020723](https://www.ebay.com/itm/133999020723) Seller: eatgoodfoodkc3 - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 25.01.2022
+- U25 - eBay [324968542864](https://www.ebay.com/itm/324968542864) Seller: roma_kreu - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 25.01.2022
 
 **Note regarding the use of Discord**
  
