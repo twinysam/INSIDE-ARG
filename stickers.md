@@ -163,6 +163,7 @@ Stickers that we know exist, but don't know what they are.
 - U23 - eBay [224665135284](https://www.ebay.com/itm/224665135284?) Seller: fornudd - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 28.10.2021
 - U24 - eBay [133999020723](https://www.ebay.com/itm/133999020723) Seller: eatgoodfoodkc3 - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 25.01.2022
 - U25 - (**STICKER CONFIRMED LOST, L33**) - eBay [144512270828](https://www.ebay.com/itm/144512270828) Seller: basicallypoirier - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 20.04.2022
+- U26 - eBay [266027659477](https://www.ebay.com/itm/266027659477?epid=237355746&hash=item3df07bf0d5:g:fEQAAOSwZ9tjjsuR) Seller: new$comer - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 06.12.2022
 
 **Note regarding the use of Discord**
  
