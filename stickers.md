@@ -164,6 +164,8 @@ Stickers that we know exist, but don't know what they are.
 - U24 - eBay [133999020723](https://www.ebay.com/itm/133999020723) Seller: eatgoodfoodkc3 - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 25.01.2022
 - U25 - (**STICKER CONFIRMED LOST, L33**) - eBay [144512270828](https://www.ebay.com/itm/144512270828) Seller: basicallypoirier - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 20.04.2022
 - U26 - eBay [266027659477](https://www.ebay.com/itm/266027659477?epid=237355746&hash=item3df07bf0d5:g:fEQAAOSwZ9tjjsuR) Seller: new$comer - Contacted by: eBay-Raezores. - Sent message to seller, but with no reply yet. 06.12.2022
+- U27 - [@MinnMaxShow](https://twitter.com/MinnMaxShow/status/1591713728965136386) Was found via Twitter search "Inside Collector's Edition". Had a charity stream on Youtube where you could win the INSIDE Collector's Edition similar to the one of sticker 413 that Twitter user The_Starkiller won november 2021 [link](https://twitter.com/MinnMaxShow/status/1457204412879802378). Unfortunately, the video link does not work, so it's not possible to check via that. Reached out via DM and tweet. Via Raezores. 11.12.2022
+- U28 - [@DaniaGames](https://twitter.com/DaniaGames/status/1600489978018013184) Was found via Twitter search "Inside Collectors Edition". It's confirmed that they have received the collector's edition from Playdead as a donation/gift for a christmas work get together. Unknown if the sticker is disposed of or not. Tweet reply sent. Via Raezores. 11.12.2022
 
 **Note regarding the use of Discord**
  
