@@ -44,7 +44,7 @@ Things that are unsolved have a red border in the graph, and things that might b
 - [Glass windows](glass_windows.md)
   - [x] Polybius cipher
   - [ ] Rorschach Desgn
-  - [ ] Ford cipher
+  - [ ] Ford cipher and other keyboard mashes
 - [Printer button and terminal41.link](terminal41.md)
   - [ ] youtube stream
   - [ ] comms_main_viewgate_002
@@ -52,6 +52,7 @@ Things that are unsolved have a red border in the graph, and things that might b
   - [x] first printout
   - [x] second printout
   - [x] third printout
+  - [x] gate 98
   - [ ] dot pattern in printreqstatus_SD
   - [saf_dat_col](terminal41.md#saf_dat_col)
     - [x] acorn 42 BMP
