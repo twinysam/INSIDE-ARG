@@ -48,7 +48,7 @@ Date of when the image/information of the sticker was received (DAY/MONTH/YEAR)
 - [194](/images/stickers/194.jpg) (symb: / img: E) - ebay#264253871354 4/5 videogamescollection-824 via dragonslayer875. 09.01.2020
 - [206](/images/stickers/206.jpg) (symb: • img: H) - [@triplizard](https://twitter.com/triplizard/status/1222277716554043392) (triplizard#6329 on Discord) via Raezores & TranceFormation - was found via Twitter search "inside collector's edition". 25.03.2020
 - [221](/images/stickers/221.png) (symb: / img: E) - [Youtube user superjollymac - video](https://www.youtube.com/watch?v=Mhxynz-LoAI) via GoofyG/Fordish. 16.12.2019
-- [223](/images/stickers/223.png) (symb: / img: G) - [ebay#297682348686](https://archive.ph/IhWIn) via Raezores ([Discord link](https://discord.com/channels/460626942190813184/461275582970462209/1427667223874371695))
+- [223](/images/stickers/223.png) (symb: / img: G) - [ebay#297682348686](https://archive.ph/IhWIn) via Raezores ([Discord link](https://discord.com/channels/460626942190813184/461275582970462209/1427667223874371695)) 14.10.2025
 - [231](/images/stickers/231.jpg) (symb: / img: F) - [@SassyRedGloves](https://twitter.com/SassyRedGloves/status/1016890390413180928) (SassyRedGloves#3667 on Discord) via Raezores - was found via Twitter search "inside collector iam8bit". 18.03.2020
 - [242](/images/stickers/242.jpg) (symb: - img: [H](/images/stickers/edited/242.jpg)) - [Depunked#8194 v=fu7gmuJQKXM](https://www.youtube.com/watch?v=fu7gmuJQKXM) via dragonslayer875. ([Discord link](https://discordapp.com/channels/460626942190813184/461275582970462209/666449330324111412)). 14.01.2020
 - [245](/images/stickers/245.jpg) (symb: / img: [B](/images/stickers/edited/245.png)) - EthanAndrew#2662 via PitchBright. 17.12.2019
