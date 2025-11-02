@@ -22,7 +22,7 @@ Would like to help out with the documentation? [check this section](#contributin
 
 This is required reading to understand what has happened so far, and the state of some of the currently active puzzles.
 
-- [Imgur with early secrets and mysteries uncovered in the game](http://imgur.com/a/TnMsM)
+- [Imgur with early secrets and mysteries uncovered in the game](https://web.archive.org/web/20180604213403/https://imgur.com/a/TnMsM)
 - [A good summary of most of the so far solved ARG puzzles](https://wiki.gamedetectives.net/index.php?title=Inside_ARG)
 
 ## Active Mysteries and Puzzles
