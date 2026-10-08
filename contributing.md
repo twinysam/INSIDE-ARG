@@ -32,14 +32,15 @@ These documents can be opened with any text file editor, and edited directly onl
 
 There are even quite a few really cool (free) editors which do syntax highlighting, which makes writing in markdown even more appealing. Some of these are:
 
-- [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows/Linux)
-- [Notepad2e](https://github.com/ProgerXP/Notepad2e) (Windows only)
-- [Typora](https://typora.io/) (Windows/Linux/Mac)
-- [Mark Text](https://marktext.app/) (Windows/Linux/Mac)
+- [Ghostwriter](https://ghostwriter.kde.org/) (Windows/Linux)
+- [Notepad3](https://rizonesoft.com/downloads/notepad3/) (Windows only)
+- [Mark Text](https://marktext.me/) (Windows/Mac/Linux)
+- [Obsidian](https://obsidian.md/) (Windows/Mac/Linux)
 
 If you want something packing a bit more power and features, you can try one of these (all are cross-platform):
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) ([Web version](https://vscode.dev/))
 - [Sublime Text](https://www.sublimetext.com)
-- [Brackets](http://brackets.io/)
-- [Atom](https://atom.io/)
+- [Zed](https://zed.dev/)
+- [Phoenix Code](https://phcode.dev/) ([Web version](https://web.phcode.dev/))
+- [JetBrains Fleet](https://www.jetbrains.com/fleet/)
