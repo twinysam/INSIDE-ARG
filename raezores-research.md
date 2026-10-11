@@ -1,73 +1,165 @@
-# Raezores research methods, as described by himself
+# Raezores' research methods
 
-On Google I have done searches such as "INSIDE Collector's Edition" and with additions of the words "Playdead", "iam8bit" and "RealDoll" in order to filter out non-relevant searches. Sorting the searches by date and knowing that the Collector's Edition isn't as big as other games out there, it knowingly would be possible to go through all the results until march 2018 when using those words. By reading relevant articles and posts, I would go to the comments and check the interest, and contact anyone that indicates interest or the fact that they wanted to or ended up preordering the CE. In all cases, people who stronlgy indicated or was obvious that had ordered one was added to our Google Document with the date, contact person and name/link to the post/comment that they made. Some results was easy and quick to find, while later CE's (because theres so few of them ever sold) has been proved hard to find. Some searches in for example 1 platform could end up taking 1+ hour because it went really deep and therefore I had to complete the current search in order not to lose track of where I was. For each specific platform in general, I have usually been checking in each day, or several times a week in case there would be new results, which sometimes come up. In some cases in the Google Document, the letter that the sticker represents is faded because we haven't gotten a good enough image of the sticker, but still we know it's letter since it's a repeating pattern. Update: In the later years of the search, I usually do bigger search sometimes a month due to the rarity of the stickers. Generally I have also in some instances found stickers thanks to other people I found, who knew someone who had a CE, or could point me in directions. For more details on this, you can see the sticker list where everyone in the list will have detailed and specific descriptions on how that CE was found, whether that be unknown, found or lost sticker status.
+This is how I have been searching for owners of the INSIDE Collector's Edition (CE), getting in touch with them and keeping track of the stickers. The searches have changed over time, but much of the work still comes down to going through old posts, comments and images, following the information they lead to and waiting for replies.
 
+In the beginning, we kept the findings in a Google Document with the owner's name, source link, contact person and date. That information is now in the [sticker list](stickers.md), where the individual entries explain how each CE was found and what happened afterwards. Other people in the community have also helped with searches, contacting owners, translations and finding connections between older entries.
 
-So by going through different platforms, I have been searching for owners with same keywords across every platform, such as INSIDE Collector's Edition, Playdead, iam8bit and RealDoll. Many people have been contacted in total, but there are very many that doesn't reply right away, or reply at all, whilst some do. Different platforms and places I have searched which resulted in finding sources is as following: Facebook, Twitter, Google and Google images, Youtube, Instagram, Ebay, Discord, Reddit. Below you will find more information on each specific one:
+## How I do the searches
 
-## Youtube:
+The main search terms have been "INSIDE Collector's Edition", with different combinations of "Playdead", "iam8bit" and "RealDoll" to filter out unrelated results. I also use variations such as "Collectors Edition", "collecter's edition", "special edition", "limited edition", "deluxe edition" and "CE". Some people never use the full name, so words like "Huddle", "statue" or "figure", together with INSIDE or Playdead, can lead to posts that the usual searches miss.
 
-On Youtube I am following iam8bit and Playdead's Youtube channel, and have also been searching for the CE's from since the time we knew the first persons received it. We have been using keywords such as "INSIDE Collector's Edition" with additions of words like "Playdead", "iam8bit" and "RealDoll". By following other popular gaming channels like Inside Gaming and IGN on Twitter and other social media platforms, we was aware that they would likely post unboxing videos of the CE, which they did end up doing. Since that, we have been checking in several times and found other people who have posted unboxing videos which we have contacted. Other than this, we have gone through the comments and it's replies, checking for anyone who have indicated that they bought the collector's edition, and if so, contacted them.
+By sorting results by date where possible, I have worked back through posts to the announcement in March 2018. The CE is quite rare, which makes it possible to go through a lot of the relevant results, but also means that there can be long periods without finding anything new. I check the original posts, their comments and replies, and sometimes the profiles or other posts of people who mention buying or preordering it.
 
-## Google and Google images:
+The searches also include images and videos where the CE is visible without being mentioned in the text. A photo of the Huddle, the box or the art cards can be enough to give me somewhere to start. I then try to find the original source and work out who actually owns it. A repost, a borrowed image or a gift of just the art cards does not necessarily mean that the person posting it owns a complete CE.
 
-On Google I have done searches such as "INSIDE Collector's Edition" with additions of the words "Playdead", "iam8bit" and "RealDoll" in order to filter out non-relevant searches. Sorting the searches by date and knowing that the Collector's Edition isn't as big as other games out there, it knowingly would be possible to go through all the results until march 2018 when using those words. By reading relevant articles and posts, I would go to the comments and check the interest, and contact anyone that indicates interest or the fact that they wanted to or ended up preordering the CE.
+I have also widened the searches to other languages, different spellings and less obvious wording. Changing a few words can bring up something that did not appear in an earlier search. Even an old comment can be useful years later, especially if it gives a username, mentions a sale or leads to another person.
 
-### Google images:
+## Finding and contacting owners
 
-On the images section the same method was applied, and then going through all of the relevant images and checking out the websites they lead to. For example after 12th of december 2019, I knew I probably would end up finding direct evidence of people who had the CE by seeing their "Huddle" image posted which was included in the CE, which was exactly what I did end up finding most of the time, but also of the collector's box itself. Then said persons would then be contacted. 
+When I find someone who appears to have the CE, I first compare the information with the confirmed, lost and unknown entries in the sticker list. I also check the information we already have in Discord and any recent replies that have not been added yet. Someone can be using a different name on another platform, or showing a CE that has already changed owners, so a new post is not always a new sticker.
 
-## Ebay:
+I usually contact people through a reply or direct message on the platform where I found them. If that does not work, I look for other accounts they have linked themselves, a website contact form or a public email address. I have also contacted people through collector forums, Discord servers and livestream chats. Sometimes a friend, another collector or someone in our server can help me get in touch with a person I have not been able to reach myself.
 
-For the keywords, the same process was applied as for the Google search in order to pin-point and filter out non-relevant results. By doing this, we would easily find all the sellers who sold a copy of the CE. By setting up an advanced search on those keywords, we would get notifications when a new one would pop up. It was easier to find the owners on Ebay because there was so few, and because Ebay is easy to navigate and only shows items for sale/buy. We would contact the seller and then leave a link with their name and the product number in the Google Document and the name of the person who contacted the seller and the date of contact.
+In the message, I explain the sticker ARG, where the sticker is and why we are looking for a clear image of it. Many owners were not aware of the ARG when they received the CE. Some also think we are asking them to open everything, so I explain the difference between opening the outer shipping box to reach the sticker and unsealing the contents of the CE. If the sticker is gone, I ask whether they have any old photos or unboxing footage where it might be visible.
 
-## Facebook:
+Some people reply the same day, while others take weeks or months, and many never reply. There have also been cases where a follow-up much later finally gave us an answer. If someone says they will check when they get home or when they can get to the box, I keep track of that and follow up later. If they do not want to take part, I leave it there. No reply by itself does not tell us whether the sticker is lost.
 
-On Facebook I have been going through different posts made by media sources covering the CE, posts from iam8bit, RealDoll and Playdead, and then checking the comments of each post that could have potential of finding potential owners. On Facebook I have also gone through the shared posts of other official posts, and checked the comments, then contacting all the possible persons. I have also sorted those by date, and by seperate searches like in images, videos and posts. In order to maximize the results further, I joined some groups like PS4 collecting groups and made posts there to let other collector's be aware of it and in case someone ordered it.
+When an owner sends an image, I check the number and symbol against what we already have. If they have sold the CE, I try to follow the sale through the listing or any information they can share. The seller, buyer, dates, photos and price can help connect two posts, but I try to make clear whether the connection has been directly confirmed or is based on matching information. The aim is to keep the history of the same CE together instead of adding it again under a new name.
 
-## Reddit:
+## Time spent on the searches
 
-The first places we searched was the closest ones, such as the INSIDE's subreddit, Playdead subreddit and LIMBO subreddit. Posts was made to make fans aware of the collector's editions, and as it was easy to keep track and because of the fact that several fans are there, and most people was aware of it, whilst at the same time the amount of members is significantly lower than on other platforms. By going through those posts and comments, we would contact any persons who showed interest. Outside of those subreddits, I have done searches for the whole of Reddit with the keywords "Playdead INSIDE Collector's Edition", which ended up giving some results in other subreddits, where posts and comments was made. One specific subreddit that I check often is /r/gamecollecting, as it usually shows posts of rare games and Collector's Editions. Anyone with bigger collections was contacted in order to gain advice and tips on how to further do the searches more efficiently.
+Some results have been easy and quick to find, while others have taken a lot of searching and follow-ups. A single search on one platform can take more than an hour when it leads through several posts, replies and profiles. I often try to finish that part of the search before stopping, so I do not lose track of where I was or which comments I have already checked.
 
-## Discord:
+Earlier on, I checked the main platforms daily or several times a week. In later years, I have generally done larger searches during the month, alongside notifications and follow-ups when something appears. A new video, an owner replying or a new listing can give me a reason to go through a platform again. Much of the time is spent checking things that turn out to be already known, rather than finding a new sticker every time.
 
-Theres two Discord servers, LIMBO Blobs, which is for the most part inactive, but some people there knew about the collector's edition. Then the most active Discord server, Playdead Unofficial where all ARG's from back in time was solved. As soon as the ARG was discovered with the CE, the effort to track down owners would be done, and by giving said people an unique Collector's Edition role. As Discord is a very active and easily available platform to use full of hardcore Playdead fans, it has been very convenient to find the owners there.
+## YouTube
 
-## Instagram:
+I follow iam8bit and Playdead's channels and have searched for CE videos since the first owners started receiving theirs. By following gaming channels such as Inside Gaming and IGN on other platforms, we were also aware that they were likely to post unboxing videos, which they eventually did.
 
-On Instagram, the searching has been a little different as hashtags are mostly used to posts here. By checking iam8bit, RealDoll and Playdead's accounts, I have checked the posts they made, and it's comment and then contacted people who showed interest in the CE. Including this, I have checked posts where said accounts was tagged, because some people would tag them, but not use hashtags. Hashtags however is what has mostly been very helpful here though, but also time consuming on some of them because of the amounts of posts in each hashtags. Here are some examples of hashtags that is searched regularly, but usually with very many posts, all sorted from newest in time and scrolling back in time: #playdead, #realdoll, #huddle, #thehuddle, #inside, #gamecollection, #gamecollector, #gamecollecting, #gamecollections. Then there are hashtags with less posts which are more likely to yield results, which I follow and check several times a week: #playdeadgame, #playdeadgames, #insidegame, #playdeadstudios, #insideps4, #insidethegame, #insideplaydead, #playdeadsinside, #insidecollectorsedition and #playdeadinside. By following and checking those, I have been able to track down some owners, and contacted many people as well with some results.
+Besides dedicated unboxings, I look through videos about unusual, disturbing, expensive or disappointing collector's editions, where INSIDE may only be one part of the video. I also check videos about INSIDE and its mysteries.
 
-## Twitter/X:
+I go through the comments and their replies for people saying they bought, preordered or still own the CE. Some only mention the statue, a sealed box or a friend who has one. Those comments need more context before I can tell whether they refer to the CE or just the game. I have gone back through older videos as well, since later replies or edited comments can give us new information about an owner we already know.
 
-As with Instagram, Twitter is also somewhat different than the other platforms, and probably the one where the deepest and most time consuming in-depth searches have taken place, but also with a good amount of finds so far. Twitter has all kinds of different options, whilst at the same time is very much used across the globe by a lot of people, which is probably the reason why. By first going through Playdead, iam8bit and RealDoll's posts, I have there checked those posts comments. While the post itself can have retweets with comments, the original comments under it can have more replies and retweets. First I would go through every single comment in the post, then contact the potential owners, then go through the retweets of the post with comments and check if that retweet had retweets or comments. If they did, I would check that too. Persons who showed interest or was obvious that bought a CE, would be contacted. This process would then be repeated with all the potential posts, comments and retweets back in time until start of march in 2018 by using keywords as "inside iam8bit", "inside playdead", "inside realdoll", "playdead iam8bit", "inside collector's edition", "playdead inside collector's edition" and so on. This would be done on posts, image-posts and video-posts. I would also find news and gaming sources reporting on the CE, where all the comments, retweets and the link to the post itself with it's comments would be checked. In many cases we would both DM and Tweet at the potential owners in order to get their response. On Twitter, hashtags such as #inside, #playdead, #realdoll have also been checked. Often the process of going through Tweets & replies back in time on potential people would also be done in order to potentially get more information.
+If a sticker appears in the footage, I check whether the number and symbol can actually be read. Finding an unboxing does not always give us a usable sticker image. I contact the uploader or commenter when more information is needed. There have also been cases where my replies did not appear, so I tried another linked account or contact method instead.
 
-## Other smaller platforms that have been checked with less results:
+### Oddheader's INSIDE video
 
-Because we knew the ARG discussions originally started at Steam, we have checked there too for clues. Other additions to this list is places usually found by the Google (image) searches, and results from people who collect games who have given advice on where to search, such as forums.
+After [Oddheader's dedicated INSIDE video](https://www.youtube.com/watch?v=ZqYhhptmhmo) in September 2026, more people joined the Playdead Unofficial server and took an interest in the sticker ARG. People in Oddheader's server have also shown an interest in helping with the search. The extra help has included checking older information, finding additional links for stickers already in the list and looking for more CE videos to follow up on.
 
-### Resetera:
+I went through the comments and replies under the video and contacted people who said they had the CE. Other people also helped by replying to owners and asking about their stickers. This gave us more owners to follow up with, including people keeping their CEs sealed, people who had lost the sticker and people who gave a sticker number without an image yet. Those different situations need to be kept separate in the documentation.
 
-A result from Google images, a forum where some people in a post showed off their "Huddle" from the CE. Those persons have been contacted, and 1 has replied, but we have currently not yet gotten any sticker results from this search.
+The renewed attention also led me back to Oddheader's older videos mentioning INSIDE. Comparing comments across the videos has helped connect people with existing entries and find later updates, including confirmation that a sticker was lost. The impact has been both new information and more people helping to work through the information we already had. The individual findings and contributions are recorded in the sticker list.
 
-### Collectedit:
+## Google and Google Images
 
-A result from Google images that gave one result, with a sticker image, a website that people who collect games usually archive and keep track of their collection.
+Google has been useful for finding news articles, collector forums and older posts that do not always appear through a platform's own search. I use the different search terms mentioned above, sometimes with a particular website, username or product link. I read the relevant articles and then check their comments for people who showed interest or said they had ordered the CE.
 
-### Smaller forums/places with no results yet:
+### Google Images
 
-VGCollect forum with advanced searches, craigslist, kijiji, Facebook marketplace, Finn.no (Norwegian site much like Ebay), NextDoor, collectorsedition.org forum, Mercari, gumtree, letgo, OfferUp, VideoGameSage.com, vk (Russian site).
+I use similar searches in the image results and follow relevant pictures back to the websites they came from. After the unboxings in December 2019, pictures of the Huddle and the collector's box became particularly useful for finding owners.
 
-### Addition on 28.04.2026:
-Since April 2026, I have used ChatGPT's last mode in thinking + extended effort mode in order to crosscheck what I have previously found to be sure I didn't miss anything. More importantly, after Russian YouTuber StopGame made a video on INSIDE's Printer ARG, I got the idea to start using ChatGPT to search in other languages as well. This has for now currently resulted in me finding one more owner of the CE, Russian Instagram user/Youtuber bigdaffymonster. I have also used ChatGPT to translate to Russian in those instances when needed. Its only recently that I have started using ChatGPT, and only a small amount in certain instances where I'm mostly not able to find new stickers myself due to language barriers for example.
+The image itself can be the only clue, especially if the caption does not mention INSIDE. Reverse image searches have also helped us find other places where an image was posted. I compare those with the original source and the sticker list, since an image can be reposted or reused in a later sale.
 
+## eBay
 
-## Lost stickers:
+I use combinations of the same keywords to find listings and have saved searches with notifications for new results. When a listing appears, I check all the photos for the sticker before contacting the seller. Sometimes it is already visible, but the seller is not aware of what it is or why we need a clearer photo.
 
-The lost stickers section gives you the list of persons who are confirmed to have a collector's edition that we contacted and got answers from, but confirmed that they lost/disposed of their sticker because they wasn't aware of the valuable information it contained. In some cases, an owner had a screenshot/video where the sticker was in, but impossible to see the symbol or/and number it had.
+I keep the listing link, item number, seller's name and contact date in the documentation. Sold listings and archived pages can also be useful when a live listing disappears. An older listing may help identify a later seller or buyer, and comparing the photos can show that two listings are for the same CE.
 
-## Unknown stickers:
+There have been cases where a seller sent the sticker image after the auction ended, or helped pass a message on to the buyer. I also compare sales with comments on other platforms when someone says they have just bought a CE. These are updates to an existing sticker when the connection can be established.
 
-The unknown stickers section is for the persons who are confirmed to have the collector's edition, for example they made a tweet about it indicating almost for sure or that they definetly have the collector's edition. But because we haven't gotten any answers from them yet, or they for some reason couldn't reach their collector's edition or knew if they still had the sticker, their status is put under the unknown section until we get further updates or replies from them.
+## Facebook
 
-## Stickers list:
-If you want to see the list of all the stickers with links to the images/information of each induvidual confirmed, lost or unknown stickers, use this link: https://github.com/twinysam/INSIDE-ARG/blob/master/stickers.md
+On Facebook, I have gone through posts from iam8bit, RealDoll, Playdead and media pages covering the CE. I check the comments, replies and shared posts for possible owners, and have searched separately through posts, images and videos where those options were available.
+
+I have also joined collecting groups and made posts about the ARG to reach people who may have ordered the CE without knowing about the sticker. These have included PS4 collecting groups, Limited Printed Games and other collector communities. In some cases, someone in a group knew an owner or pointed me towards another group where it was worth asking.
+
+Facebook Marketplace is another place I check for sales. It has now led to a documented CE, so it is no longer just one of the places searched without results. As with eBay, I contact the seller about the sticker and compare the listing with the information we already have.
+
+## Reddit
+
+The first places we checked were the INSIDE, Playdead and LIMBO subreddits. Posts there helped make fans aware of the stickers, and I went through the comments for anyone who had bought or preordered the CE.
+
+I have since searched across Reddit using broader combinations of the keywords, including in /r/gamecollecting and sale posts in /r/GameSale. I have also contacted people with large collections to ask whether they own one or know someone who does, and for advice on other places to search.
+
+Older threads are worth revisiting because people can add new comments or replies long after the original post. I have used post notifications to catch these, including comments about buying or selling a CE. I also check the surrounding conversation, since a reply may identify the buyer of a sale or explain that an owner is already in our list under another name.
+
+## Discord
+
+The two Playdead-related servers I originally checked were LIMBO Blobs and Playdead Unofficial. Playdead Unofficial has been the main place for discussing the ARG and collecting information from owners. People who own the CE can get a Collector's Edition role, which also helps us keep track of who has one.
+
+I have joined other Discord servers as well, including servers connected to creators and gaming communities, to spread the word about the ARG and ask whether anyone owns the CE or knows someone who does. Sometimes this gives me another way to contact a creator, or puts me in touch with someone who can help with a language or platform I do not use myself.
+
+The server also contains a lot of older research spread across different conversations. I search those discussions when checking an owner, a username or an old photo, and try to keep the relevant message links with the entry. Other members have found posts, contacted owners and helped follow up on leads, so I include their part in the sticker history where possible.
+
+## Instagram
+
+On Instagram, I have checked posts from iam8bit, RealDoll and Playdead, along with their comments. I also look through posts where those accounts are tagged, because someone may tag the companies without using any hashtags or writing out the name of the CE.
+
+Hashtags have been useful, although the broader ones can take a long time to go through. Some of the ones I have checked are #playdead, #realdoll, #huddle, #thehuddle, #inside, #gamecollection, #gamecollector, #gamecollecting and #gamecollections.
+
+More specific searches include #playdeadgame, #playdeadgames, #insidegame, #playdeadstudios, #insideps4, #insidethegame, #insideplaydead, #playdeadsinside, #insidecollectorsedition and #playdeadinside. I have followed and revisited these searches over time, working back through older posts where possible.
+
+I also look at collection photos, videos and reels where the Huddle or other parts of the CE might be visible without a useful caption. Once I find a possible owner, I check their other relevant posts and contact them for more information.
+
+## Twitter/X
+
+Twitter has been one of the most time-consuming parts of the search, but it has also given us many of the finds. I started with posts from Playdead, iam8bit and RealDoll, then went through the replies and retweets with comments, now usually called quote posts.
+
+A single post can lead to several more conversations. I would check the original comments, then the quote posts, then any replies or further quotes on those. People who said they bought the CE or strongly suggested they had one would be contacted through a reply, a DM or both.
+
+I repeated this with relevant posts back to March 2018, using combinations such as "inside iam8bit", "inside playdead", "inside realdoll", "playdead iam8bit" and "inside collector's edition". I searched text posts, images and videos, as well as hashtags such as #inside, #playdead and #realdoll.
+
+News and gaming accounts were useful too. I checked the discussion under their posts and the comments on any article they linked to. In some cases, going back through a possible owner's own posts and replies gave me more information or a way to connect their account with a name already in the list.
+
+## Other forums and marketplaces
+
+Steam was one of the first additional places we checked because earlier INSIDE ARG discussions had taken place there. Going back through old discussions, image posts and comments has also helped connect usernames with owners we already know.
+
+### ResetEra
+
+I originally found the ResetEra discussion through Google Images, where people had posted pictures of their Huddles. Since I could not contact everyone directly on the forum, I looked for the accounts they used elsewhere and also got help from other people.
+
+This eventually led to the image of Metsallica's /296 sticker after he was able to return to the office where his CE was kept. A later search also connected ResetEra user juxjuxjux with NicelyNeatly/jux, whose -338 sticker was already documented. These are examples of why I keep checking old forum posts even when the first contact does not lead to an image.
+
+### Collector websites and smaller forums
+
+Collectedit gave us a sticker image from a collection page found through Google Images. I have also searched VGCollect and contacted collectors there. Collector databases can be useful because someone may list the CE as part of their collection without making a separate social media post about it.
+
+PriceCharting has led to sale posts and possible owners to contact. Other forum searches have included collectorsedition.org, VideoGameSage, PSNProfiles and WATMM. Some of these have given us ownership claims or contact routes even when we have not received a sticker image. A forum profile can also link to another account or an email address, which has helped me continue the search elsewhere.
+
+### Other marketplaces
+
+I have also checked Craigslist, Kijiji, FINN.no, Nextdoor, Mercari, Gumtree, letgo and OfferUp. Some of these were part of earlier searches, and the amount of useful information varies. I have also looked beyond English-language sites and used help from other people when a platform or language made it difficult to contact an owner, including through VK.
+
+## Extra help with the searches
+
+Since around April 2026, I have also used ChatGPT as a helper and guide for parts of the research. I first added a note about this on 28.04.2026. The searches and contact with owners had already been going on for years before that.
+
+After Russian YouTuber StopGame made a video about INSIDE's Printer ARG, I started looking more closely at searches in languages I do not speak. ChatGPT has helped me with translations and with finding different ways to search for comments and posts, including spelling mistakes, missing punctuation and wording that I might not have thought of myself. One early result was the post from bigdaffymonster, whose CE is now documented as [L40](stickers.md#L40). Getting in touch and confirming the sticker's status also involved help from StopGame and Man.
+
+I use ChatGPT Plus, and have also set up scheduled searches to help look for new posts, listings and updates on owners already in the documentation. I ask it to compare findings with the latest sticker list and information I have already collected, so the same owners and listings do not keep coming back as new finds. It can also help me work through possible connections between usernames or sales, organise the information and prepare updates to the list.
+
+I still check the sources, contact owners and follow up with them. A suggested connection needs checking, and search results can miss comments or return something we already know. I use the tools to help me navigate the searches and documentation, while deciding myself what needs following up and what is supported well enough to add.
+
+## Keeping the sticker list updated
+
+I keep the source, date, person who found it and any contact or later updates together in the same entry. When an unknown entry is resolved, its old number can remain as a reference to the full history. This makes it easier to follow what happened without repeating the same account in several places.
+
+### Identified and reported stickers
+
+The main list contains stickers identified from images. In some cases the image quality is too low to make out the background clearly, but the image letter can be worked out from the repeating pattern of the numbers. That pattern only gives the image letter, not the symbol.
+
+If someone gives us a number and symbol without an image, it belongs in the separate section for reported stickers awaiting images. This keeps a comment about a sticker separate from one we have been able to check in a photo.
+
+### Lost stickers
+
+The lost section is for stickers confirmed, or strongly believed, to be lost. Many owners threw away the packaging without knowing that the sticker was part of an ARG. In some cases, the only remaining photo or video shows part of the sticker, but the number or symbol cannot be read. The entry should explain what was confirmed and what is still uncertain.
+
+### Unknown stickers
+
+The unknown section is for CEs where the sticker number or status is still unknown. The owner may not have replied, may have the box in storage or may not know whether the sticker is still there. A preorder comment or an indirect claim does not always confirm that someone received a CE, so those cases are marked as unconfirmed rather than treated as definite additional owners.
+
+The full sources, contact history and updates for individual CEs are in the [sticker list](stickers.md).
+
+Last updated: 11.10.2026.
