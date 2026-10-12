@@ -141,8 +141,8 @@ This may be the same for their [individual PS4 physical copy](https://www.iam8bi
 
 **SCANS**
 
-- [Internal cover](https://cdn.discordapp.com/attachments/461275582970462209/700782524535799848/INSIDE_A.JPG)
-- [External cover](https://cdn.discordapp.com/attachments/461275582970462209/700782556471230514/INSIDE_B.JPG)
+- [Internal cover](images/CE_REVERSIBLE-COVER_INSIDE_A1.JPG)
+- [External cover](images/CE_REVERSIBLE-COVER_INSIDE_B1.JPG)
 
 The clock is at 12:12.
 
